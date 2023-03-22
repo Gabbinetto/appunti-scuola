@@ -8,14 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e457ea693d56f6b6",
+            "id": "a81bbbd070b001ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scienze/Chimica organica.md",
+                "file": "Latino/Ovidio.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "43e5b455cda06e0c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Scienze/disegni-excalidraw/alchili.excalidraw.md"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scienze/Chimica organica.md",
+                "file": "Latino/Ovidio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scienze/Chimica organica.md",
+                "file": "Latino/Ovidio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scienze/Chimica organica.md"
+                "file": "Latino/Ovidio.md"
               }
             }
           }
@@ -147,16 +157,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e457ea693d56f6b6",
+  "active": "a81bbbd070b001ef",
   "lastOpenFiles": [
-    "Scienze/disegni-excalidraw/alcani.excalidraw.md",
     "Scienze/Chimica organica.md",
+    "Scienze/disegni-excalidraw/alchili.excalidraw.md",
+    "Scienze/disegni-excalidraw/alcheni.excalidraw.md",
+    "Latino/Ovidio.md",
+    "Scienze/disegni-excalidraw/alcani.excalidraw.md",
     "README.md",
     "Scienze/formula-.excalidraw.md",
     "Scienze/disegni-excalidraw",
     "Drawing 2023-03-19 23.33.51.excalidraw.md",
     "Untitled.canvas",
-    "Latino/Ovidio.md",
     "Scienze",
     "Latino"
   ]
