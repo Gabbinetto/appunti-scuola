@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2321d57edb3361f9",
+        "id": "072021ce1a3e40fb",
         "type": "tabs",
         "children": [
           {
-            "id": "a81bbbd070b001ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Latino/Ovidio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43e5b455cda06e0c",
+            "id": "8b3ce1c38bfa2cd1",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Scienze/disegni-excalidraw/alchili.excalidraw.md"
+                "file": "Matematica/esercizi.excalidraw.md"
               }
             }
           }
@@ -95,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Latino/Ovidio.md",
+                "file": "Matematica/esercizi.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Latino/Ovidio.md",
+                "file": "Matematica/esercizi.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Latino/Ovidio.md"
+                "file": "Matematica/esercizi.excalidraw.md"
               }
             }
           }
@@ -157,16 +145,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a81bbbd070b001ef",
+  "active": "8b3ce1c38bfa2cd1",
   "lastOpenFiles": [
-    "Scienze/Chimica organica.md",
-    "Scienze/disegni-excalidraw/alchili.excalidraw.md",
-    "Scienze/disegni-excalidraw/alcheni.excalidraw.md",
+    "Fisica/esercizi.excalidraw.md",
+    "Matematica/esercizi.excalidraw.md",
+    "Matematica",
+    "Untitled.md",
+    "Fisica",
+    "Scienze/embeded/alchili.excalidraw.md",
     "Latino/Ovidio.md",
-    "Scienze/disegni-excalidraw/alcani.excalidraw.md",
+    "Scienze/Chimica organica.md",
+    "Scienze/embeded/alcheni.excalidraw.md",
+    "Scienze/embeded/alcani.excalidraw.md",
     "README.md",
     "Scienze/formula-.excalidraw.md",
-    "Scienze/disegni-excalidraw",
+    "Scienze/embeded",
     "Drawing 2023-03-19 23.33.51.excalidraw.md",
     "Untitled.canvas",
     "Scienze",
