@@ -58,20 +58,11 @@ Gli alcani possono presentare ramificazioni, quindi alchili al posto di un ato
 
 Per esempio:  
 
-C-C-C-C-C 
-     | 
-   CH3 
+![[pentani-esempio.excalidraw]]
 
-Questo pentano presenta un metile al secondo atomo, quindi la nomenclatura va:
-1C-2C-3C-4C-5C. 
-
-Se fosse stato 
-
-C-C-C-C-C 
-     | 
- CH3 
-
-Sarebbe stato: 5C-4C-3C-2C-1C. 
+Il primo pentano presenta un metile al secondo atomo, quindi la nomenclatura va:
+**1C-2C-3C-4C-5C**. 
+Il secondo invece è: **5C-4C-3C-2C-1C**. 
 
 Il nome che prende questo composto è *2METILPENTANO*, perché 
 
@@ -83,23 +74,13 @@ Il nome che prende questo composto è *2METILPENTANO*, perché 
     
 
 Ovviamente si può presentare più di un alchile: 
-
-   CH3 
-     | 
-C-C-C-C-C 
-     | 
-   CH3 
-
+![[pentano-esempio2.excalidraw|175]]
 In questo caso è: 2,2DIMETILPENTANO, dove 2,2 sono le posizioni delle ramificazioni e di è il prefisso che indica quanti alchili uguali ci sono. 
 
 Se si presentano alchili diversi: 
-
-   CH2CH3 
-        | 
-C-C-C-C-C 
-     | 
-   CH3 
-
+![[pentano-esempio3.excalidraw|175]]
 Questo prende il nome di 3ETIL2METILPENTANO, quindi si aggiunge un prefisso per ogni alchile, e i prefissi vanno ordinati in ordine alfabetico (Nel caso di multipli alchili uguali il prefisso numerico non va contato verso il confronto alfabetico). 
 
 Se il gruppo alchilico è un isomero si aggiunge al prefisso dell'alchile –iso.
+
+

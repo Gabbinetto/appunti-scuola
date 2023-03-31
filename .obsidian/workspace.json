@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "072021ce1a3e40fb",
+        "id": "e3f719aa34c1fe44",
         "type": "tabs",
         "children": [
           {
-            "id": "8b3ce1c38bfa2cd1",
+            "id": "0e559b7d0798bb63",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Matematica/esercizi.excalidraw.md"
+                "file": "Filosofia/Cartesio.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 242.51103591918945
   },
   "right": {
     "id": "7908d18ff0076e0d",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematica/esercizi.excalidraw.md",
+                "file": "Filosofia/Cartesio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matematica/esercizi.excalidraw.md",
+                "file": "Filosofia/Cartesio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matematica/esercizi.excalidraw.md"
+                "file": "Filosofia/Cartesio.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,23 +147,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8b3ce1c38bfa2cd1",
+  "active": "0e559b7d0798bb63",
   "lastOpenFiles": [
+    "Filosofia/Cartesio.md",
+    "Scienze/embeded/alcani.excalidraw.md",
+    "Religione/La filosofia cristiana.md",
+    "Religione",
+    "Latino/Ovidio.md",
+    "Storia/Rivoluzione francese.md",
+    "Storia",
+    "Scienze/Chimica organica.md",
     "Fisica/esercizi.excalidraw.md",
+    "README.md",
+    "Scienze/embeded/pentano-esempio2.excalidraw.md",
+    "Scienze/embeded/pentani-esempio.excalidraw.md",
+    "Scienze/embeded/pentano-esempio3.excalidraw.md",
+    "Italiano/Ugo Foscolo.md",
+    "Untitled.canvas",
+    "Filosofia/Untitled.canvas",
+    "Filosofia",
+    "Italiano/Il Preromanticismo.md",
     "Matematica/esercizi.excalidraw.md",
+    "Italiano",
     "Matematica",
-    "Untitled.md",
     "Fisica",
     "Scienze/embeded/alchili.excalidraw.md",
-    "Latino/Ovidio.md",
-    "Scienze/Chimica organica.md",
     "Scienze/embeded/alcheni.excalidraw.md",
-    "Scienze/embeded/alcani.excalidraw.md",
-    "README.md",
     "Scienze/formula-.excalidraw.md",
     "Scienze/embeded",
     "Drawing 2023-03-19 23.33.51.excalidraw.md",
-    "Untitled.canvas",
     "Scienze",
     "Latino"
   ]
