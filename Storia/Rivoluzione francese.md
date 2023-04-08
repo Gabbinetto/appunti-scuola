@@ -1,1 +1,1 @@
-## La rivoluzione popolare
+La Rivoluzione Francese segna **la fine di istituzioni vecchie di secoli** in Francia e non solo, come l’**assolutismo** e ciò che rimaneva del **sistema feudale**. Un po’ come la Rivoluzione Americana, la Rivoluzione Francese è stata anche il **tentativo di realizzare ideali dell’Illuminismo** come la sovranità popolare ed i diritti inalienabili.

@@ -44,7 +44,15 @@ Sant'Agostino è un **padre della Chiesa**, quindi studiare la figura nella sua 
 È un padre della Chiesa che scrive molto sulla castità, al punto da sperimentare su se stesso **la castrazione**.
 
 ## Le eresie e i concili
-Le eresie le hanno combattute anche i padri della Chiesa. Nel 325, infatti, ci fu il primo concilio che combatté proprio un'eresia, **l'Arianesimo**. Qui si deciderà se Gesù sia *uomo o dio*, e si giunge alla risposta che **è entrambi**.
+Le eresie le hanno combattute anche i padri della Chiesa. Nel 325, infatti, ci fu il primo concilio che combatté proprio un'eresia, **l'Arianesimo**. Qui si deciderà se Gesù sia *uomo o Dio*, e si giunge alla risposta che **è entrambi**.
 Nella storia ci sono stati **21 concili della Chiesa**, ovvero assemblee del clero che si riunisce attorno al papa per trovare una risposta comune ad un problema. Il papa rimane superiore al concilio perché è lui a convocare il concilio. Alcuni però sono stati convocati dagli imperatori, questo per via dell'**acquisizione del potere temporale** (Ufficialmente) con **l'incoronazione di Carlo Magno**.
 Il secondo concilio, nel 381, c'è il secondo concilio: il concilio di Costantinopoli, che nomina il Cristianesimo religione dell'impero.
 Altro concilio è quello di Elvira. In realtà è stato un **sinodo** perché è *parziale* in quanto localizzato solo in un luogo.
+Altro tipo di assemblea è il **conclave**, che serve a eleggere il papa.
+
+Le eresie:
+* **Arianesimo**: nega che in Gesù esista la natura divina
+* **Docetismo**:  nega che in Gesù esista la natura umana
+* **Modalismo**: le tre figure della Trinità siano **un modo**, quando in realtà segue il concetto filosofico aristotelico dell'unica sostanza tra tre persone
+* **Marcionismo**: da Marcione, che mette in contrapposizione i due testamenti
+* **Montanismo**: da Mottano, che accentua l'importanza dei profeti, crede nella *parusia imminente* (il ritorno di Cristo, con il quale arriverebbe il giudizio universale) e non supportava il *rigorismo ascetico* in materia sessuale

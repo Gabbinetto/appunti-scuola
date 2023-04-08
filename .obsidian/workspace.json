@@ -4,18 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "e3f719aa34c1fe44",
+        "id": "156b585254fb1c1f",
         "type": "tabs",
         "children": [
           {
-            "id": "0e559b7d0798bb63",
+            "id": "63a07d5b823633f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Filosofia/Cartesio.md",
-                "mode": "source",
-                "source": false
+                "file": "Matematica/compitoTrigonometria1.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "9b15ce6368f197e6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "placeholder-for-lag.excalidraw.md"
               }
             }
           }
@@ -48,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,35 +88,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eea9bb677d826972",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Filosofia/Cartesio.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "e655e41468f347cc",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Filosofia/Cartesio.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "cecce3b9ab9fcff0",
             "type": "leaf",
             "state": {
@@ -125,12 +104,41 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Filosofia/Cartesio.md"
+                "file": "Matematica/compitoTrigonometria1.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "73159e0e5c491867",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Matematica/compitoTrigonometria1.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4bad88fd44f6d6c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Matematica/compitoTrigonometria1.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,14 +155,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0e559b7d0798bb63",
+  "active": "63a07d5b823633f6",
   "lastOpenFiles": [
+    "placeholder-for-lag.excalidraw.md",
+    "Matematica/compitoTrigonometria1.excalidraw.md",
+    "Matematica/esercizi.excalidraw.md",
+    "Storia/Rivoluzione francese.md",
+    "Italiano/Ugo Foscolo.md",
+    "Religione/La filosofia cristiana.md",
     "Filosofia/Cartesio.md",
     "Scienze/embeded/alcani.excalidraw.md",
-    "Religione/La filosofia cristiana.md",
     "Religione",
     "Latino/Ovidio.md",
-    "Storia/Rivoluzione francese.md",
     "Storia",
     "Scienze/Chimica organica.md",
     "Fisica/esercizi.excalidraw.md",
@@ -162,12 +174,10 @@
     "Scienze/embeded/pentano-esempio2.excalidraw.md",
     "Scienze/embeded/pentani-esempio.excalidraw.md",
     "Scienze/embeded/pentano-esempio3.excalidraw.md",
-    "Italiano/Ugo Foscolo.md",
     "Untitled.canvas",
     "Filosofia/Untitled.canvas",
     "Filosofia",
     "Italiano/Il Preromanticismo.md",
-    "Matematica/esercizi.excalidraw.md",
     "Italiano",
     "Matematica",
     "Fisica",
