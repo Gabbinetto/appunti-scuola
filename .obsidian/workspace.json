@@ -4,27 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "156b585254fb1c1f",
+        "id": "de54172ae892ac9e",
         "type": "tabs",
         "children": [
           {
-            "id": "63a07d5b823633f6",
+            "id": "0c14ec3adf0013f9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Matematica/compitoTrigonometria1.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "9b15ce6368f197e6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "placeholder-for-lag.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -103,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Matematica/compitoTrigonometria1.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -114,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematica/compitoTrigonometria1.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matematica/compitoTrigonometria1.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,12 +139,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "63a07d5b823633f6",
+  "active": "0c14ec3adf0013f9",
   "lastOpenFiles": [
-    "placeholder-for-lag.excalidraw.md",
+    "Matematica/compitoTrigonometria-Ferrante.pdf",
+    "Matematica/compitoTrigonometria1-Ferrante.svg",
+    "Matematica/compitoTrigonometria2-Ferrante.svg",
+    "Matematica/compitoTrigonometria2.excalidraw.md",
+    "Matematica/compitoTrigonometria2.excalidraw.svg",
+    "Matematica/compitoTrigonometria2.excalidraw.png",
+    "Matematica/compitoTrigonometria1.excalidraw.png",
     "Matematica/compitoTrigonometria1.excalidraw.md",
-    "Matematica/esercizi.excalidraw.md",
+    "Matematica/compitoTrigonometria1.excalidraw.svg",
+    "CompitoTrigonometriaFerrante.md",
+    "README.md",
+    "placeholder-for-lag.excalidraw.md",
     "Storia/Rivoluzione francese.md",
+    "Matematica/esercizi.excalidraw.md",
     "Italiano/Ugo Foscolo.md",
     "Religione/La filosofia cristiana.md",
     "Filosofia/Cartesio.md",
@@ -170,7 +164,6 @@
     "Storia",
     "Scienze/Chimica organica.md",
     "Fisica/esercizi.excalidraw.md",
-    "README.md",
     "Scienze/embeded/pentano-esempio2.excalidraw.md",
     "Scienze/embeded/pentani-esempio.excalidraw.md",
     "Scienze/embeded/pentano-esempio3.excalidraw.md",
