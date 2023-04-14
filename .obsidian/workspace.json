@@ -4,18 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "de54172ae892ac9e",
+        "id": "7905dfac734c7f0b",
         "type": "tabs",
         "children": [
           {
-            "id": "0c14ec3adf0013f9",
+            "id": "fc3ea6a2d003efed",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -44,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "tag:#filosofia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.51103591918945
+    "width": 263.5
   },
   "right": {
     "id": "7908d18ff0076e0d",
@@ -139,12 +140,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0c14ec3adf0013f9",
+  "active": "fc3ea6a2d003efed",
   "lastOpenFiles": [
+    "Italiano/Il Preromanticismo.md",
+    "Matematica/esercizi.excalidraw.md",
+    "Matematica/compitoTrigonometria2.excalidraw.md",
+    "Filosofia/Cartesio.md",
+    "Fisica/esercizi.excalidraw.md",
+    "Latino/Ovidio.md",
+    "Latino/Tito Livio.md",
+    "placeholder-for-lag.excalidraw.md",
+    "Storia/Rivoluzione francese.md",
+    "Excalidraw/Scripts/Downloaded/Alternative Pens.svg",
+    "Excalidraw/Scripts/Downloaded/Alternative Pens.md",
+    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
     "Matematica/compitoTrigonometria-Ferrante.pdf",
     "Matematica/compitoTrigonometria1-Ferrante.svg",
     "Matematica/compitoTrigonometria2-Ferrante.svg",
-    "Matematica/compitoTrigonometria2.excalidraw.md",
     "Matematica/compitoTrigonometria2.excalidraw.svg",
     "Matematica/compitoTrigonometria2.excalidraw.png",
     "Matematica/compitoTrigonometria1.excalidraw.png",
@@ -152,34 +168,24 @@
     "Matematica/compitoTrigonometria1.excalidraw.svg",
     "CompitoTrigonometriaFerrante.md",
     "README.md",
-    "placeholder-for-lag.excalidraw.md",
-    "Storia/Rivoluzione francese.md",
-    "Matematica/esercizi.excalidraw.md",
     "Italiano/Ugo Foscolo.md",
     "Religione/La filosofia cristiana.md",
-    "Filosofia/Cartesio.md",
     "Scienze/embeded/alcani.excalidraw.md",
     "Religione",
-    "Latino/Ovidio.md",
     "Storia",
     "Scienze/Chimica organica.md",
-    "Fisica/esercizi.excalidraw.md",
     "Scienze/embeded/pentano-esempio2.excalidraw.md",
     "Scienze/embeded/pentani-esempio.excalidraw.md",
     "Scienze/embeded/pentano-esempio3.excalidraw.md",
     "Untitled.canvas",
     "Filosofia/Untitled.canvas",
     "Filosofia",
-    "Italiano/Il Preromanticismo.md",
     "Italiano",
     "Matematica",
     "Fisica",
     "Scienze/embeded/alchili.excalidraw.md",
     "Scienze/embeded/alcheni.excalidraw.md",
     "Scienze/formula-.excalidraw.md",
-    "Scienze/embeded",
-    "Drawing 2023-03-19 23.33.51.excalidraw.md",
-    "Scienze",
-    "Latino"
+    "Drawing 2023-03-19 23.33.51.excalidraw.md"
   ]
 }

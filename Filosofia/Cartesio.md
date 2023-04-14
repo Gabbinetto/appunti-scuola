@@ -1,3 +1,4 @@
+#filosofia
 Nasce nel 1596. Il nome viene italianizzato da Renée Descartes, è definibile *padre della filosofia moderna*. Affronta il **problema metodologico** della scienza. 
 Quindi mette in discussione i fondamenti stessi della scienza, e arriva alla conclusione di voler **rivoluzionare** le basi della scienza per introdurne di nuove. Infatti gioca una parte importante nella rivoluzione scientifica del tempo. 
 A differenza di Bacone, era d'accordo con Galileo sull'utilità della matematica come linguaggio universale della scienza e strumento della conoscenza. 
@@ -25,3 +26,9 @@ Dio è, secondo Cartesio, **garante della certezza** che, poiché è perfetto e 
 
 C'è una debolezza argomentativa in ciò. L'evidenza del *cogito* è data dall'esistenza di Dio, ma questa è dimostrazione del *cogito*. Quindi sorge la domanda sul vero fondamento della certezza: il **dubbio** o **Dio**? 
 La verità oggettiva richiede sia l'evidenza che l'esistenza di Dio. L'esistenza di Dio non ci esclude dallo sbagliare, quindi l'errore è da posizionare **nell'intelletto umano**, che può essere orientato male.
+
+## Dualismo cartesiano
+Cartesio distingue la ***res cogitans*** e la ***res extensa***, ovvero la *sostanza pensante* e la *materia estesa*. Cartesio infatti assimila il corpo ad una macchina, perché separa *l'anima* (Il pensiero) dal corpo.
+
+## La morale
+L'etica cartesiana esalta la razionalità. La prima qualità è, infatti, **la saggezza**, ovvero *la capacità propria di dominare le proprie passioni*. Se un uomo è guidato da una **valutazione razionale**, allora è un uomo saggio. Il controllo delle passioni si raggiunge attraverso un costante *esercizio di moderazione*, così che lo sforzo sarà sempre minore, fino al raggiungimento della saggezza.
