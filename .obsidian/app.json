@@ -11,5 +11,6 @@
     "downscalePercent": 100
   },
   "promptDelete": false,
-  "spellcheck": true
+  "spellcheck": true,
+  "alwaysUpdateLinks": true
 }

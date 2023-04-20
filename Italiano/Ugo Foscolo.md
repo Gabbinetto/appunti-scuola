@@ -22,10 +22,21 @@ Altro sonetto è *In morte del fratello Giovanni*, che pone al centro dell'atten
 
 *A Zacinto* è un altro sonetto dell'opera. Si rivolge alla sua isola Zante con il suo nome greco antico *Zacinto*. Parla di molte cose insieme: *della morte, l'esilio, la mancanza di patria, la madre*. Fa anche una grande digressione per citare **Omero** con Ulisse, che, a differenza sua, riesce a tornare in patria. La figura dell'isola *si sovrappone alla madre*, infatti **nessuno sull'isola può piangere Foscolo** proprio come la madre.
 
-## I *Sepolcri*
-Carme molto lungo e complesso dedicato a Ippolito Pindemonte, scritto in seguito ad un editto di Napoleone. L'editto diceva che i morti andavano seppelliti lontani dai vivi (Prima si seppellivano nelle chiese) per motivi di igiene, così si sono istituiti i **cimiteri**.
+## I *Sepolcri* (o *Dei sepolcri*)
+Carme molto lungo e complesso dedicato a Ippolito Pindemonte, scritto in seguito ad un editto di Napoleone, l'**editto di Saint-Cloud**. L'editto diceva che i morti andavano seppelliti lontani dai vivi (Prima si seppellivano nelle chiese) per motivi di igiene, così si sono istituiti i **cimiteri**.
 Foscolo dava importanza alle tombe, e non era convinto dalla **uguaglianza delle tombe**, perché rappresentavano il ricordo dei morti e avevano valore simbolico. Infatti Parini, alla sua morte, è stato seppellito in una fossa comune, ma secondo Foscolo avrebbe dovuto avere lo stesso trattamento di personaggi come Dante.
 
-In quest'opera evidenzia come il **culto dei morti** sia importante e sia legato alla civiltà. Parla anche dell'atmosfera dei cimiteri, definendola *tetra* e *abbandonata*, dove non si può mantenere un legame con i morti.
+In quest'opera evidenzia come il **culto dei morti** sia importante e sia legato alla civiltà. Parla anche dell'atmosfera dei cimiteri, definendola *tetra* e *abbandonata*, dove non si può mantenere un **legame con i morti**.
 Parla anche di come le tombe siano importanti, ma ciò che rende eterno il ricordo è
 **la poesia**, perché se Omero non avesse scritto di Achille o Ettore nessuno li ricorderebbe.
+Quindi lui vedeva le tombe e la morte in modo **laico**, ma è da ricordare che ciò non diventa **nichilismo** per lui.
+
+Parte negando il valore delle tombe per i morti. Dice che le uniche tombe senza valore sono quelle di *chi non ha lasciano nulla ai vivi*.
+Poi pone la tesi che **il culto funerario è tra le prime espressione di civiltà**. Fa un esempio positivo dell'antichità, dove c'era un rapporto sereno con i morti, contrapposto a quello del Medioevo dove il rapporto con i morti faceva paura. Fa un altro esempio con i cimiteri inglesi di campagna, preesistenti ai cimiteri dell'editto di Saint-Cloud, dove anche qui il rapporto era sereno.
+Invece in Italia c'è un azzeramento della memoria degli antenati con le *fosse comuni*, e dice che proprio l'Italia dovrebbe ricordarli, perché se l'Italia si ricordasse della *gloria romana* ritornerebbe al suo splendore[^2].
+Dopo pone un'altra tesi: **le tombe danno forza ai vivi e sono d'esempio**, e dà l'esempio dei caduti della battaglia di Maratona, oppure gli artisti delle tombe di Santa Croce.
+Finisce con il dire che, se non possiamo essere ricordati con le tombe, dobbiamo essere ricordati **con la poesia**, proprio come Omero che dà nuova vita ai suoi eroi, ed egli stesso viene ricordato.
+Quindi il 
+
+
+[^2]: Proprio come il suo alter-ego Jacopo Ortis diceva nella sua opera
