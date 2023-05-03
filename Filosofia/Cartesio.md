@@ -1,4 +1,4 @@
-#filosofia
+#filosofia #periodo1600 
 Nasce nel 1596. Il nome viene italianizzato da Renée Descartes, è definibile *padre della filosofia moderna*. Affronta il **problema metodologico** della scienza. 
 Quindi mette in discussione i fondamenti stessi della scienza, e arriva alla conclusione di voler **rivoluzionare** le basi della scienza per introdurne di nuove. Infatti gioca una parte importante nella rivoluzione scientifica del tempo. 
 A differenza di Bacone, era d'accordo con Galileo sull'utilità della matematica come linguaggio universale della scienza e strumento della conoscenza. 

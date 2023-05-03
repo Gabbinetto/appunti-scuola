@@ -1,0 +1,12 @@
+Jonathan Swift nacque a Dublino da genitori inglesi. Nella vita fece prima il segretario e poi il ministro anglicano. Nel 1704 scrive due opere anonimamente: *A Tale of Tub* e *The Battle of the Books*, due opere satiriche, la prima aspramente criticata dalla Chiesa.
+Vent'anni dopo pubblica il suo capolavoro, (Abbreviato) ***Gulliver's Travels***.
+Swift era fortemente **misantropo**, ma riusciva ad apprezzare i singoli, e come si nota dalle sue opere non si risparmiava mai la **satira** contro i governi o la Chiesa stessa.
+
+## *Gulliver's Travels*
+L'opera parla appunto di ***Gulliver***, un chirurgo inglese che affronta quattro viaggi per *conoscere il mondo*:
+- Il primo finisce col suo naufragio nella landa di **Lilliput**, abitata da piccoli esserini, i Lillipuziani. Inizialmente lo trattano con paura e diffida, ma in seguito si fideranno di lui perché li aiuterà a contrastare la nazione limitrofa, **Beflescu**.
+- Il secondo lo porterà a **Brobdingnag**, questa volta abitata da giganti. Qui Gulliver si sente un lillipuziano e verrà trattato con riguardo, ma verrà anche preso poco sul serio. Qui un uccello gigante lo prenderà e butterà in mare, ma verrà salvato e riportato in Inghilterra.
+- Con il terzo arriva all'isola volante di **Laputa**, dove le persone sono così immerse in teorie scientifiche astratte che non riescono a gestire normali situazioni quotidiane.
+- Il quarto e ultimo viaggio lo porta nella terra di **Houyhnhmns**, abitata da cavalli estremamente intelligenti che cercano di controllare gli **Yahoos**, umani degenerati. Gulliver si distingue e quindi viene trattato con rispetto, e questo apprezza la loro ragione.
+L'opera ha come punto di vista quello di Gulliver, grazie al quale riesce a **velare critiche** e a stabilire una **connessione diretta** con il lettore. L'opera termina con la realizzazione che, dopo aver osservato tante società diverse, una **società utopica non può esistere** e evidenzia quanto importanti siano le opinioni e i punti di vista, perché **tutto è relativo**.
+*Gulliver's Travels* è tante cose, come un libro per bambini con le sue avventure fantastiche, ma anche un'opera filosofica, che osserva la società, criticandone **i valori, le credenze e l'indottrinamento** (Politico, religioso, scientifico, etc...).

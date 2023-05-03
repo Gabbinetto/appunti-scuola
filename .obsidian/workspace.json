@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "05c305f6a2df8764",
+        "id": "04af42e735d85545",
         "type": "tabs",
         "children": [
           {
-            "id": "7123ea1b93ee5696",
+            "id": "820b72847727faef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filosofia/Cartesio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e57a2abb5f6a4e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Filosofia/Spinoza.md",
+                "file": "Matematica/Probabilità.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "515c8805db1aad33",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -92,6 +88,32 @@
         "type": "tabs",
         "children": [
           {
+            "id": "1ec1f90ae89ae85f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Matematica/Probabilità.md"
+              }
+            }
+          },
+          {
+            "id": "4b74a15b05e5e220",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6c047df56e04288",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
             "id": "cecce3b9ab9fcff0",
             "type": "leaf",
             "state": {
@@ -103,22 +125,12 @@
             }
           },
           {
-            "id": "1ec1f90ae89ae85f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Filosofia/Cartesio.md"
-              }
-            }
-          },
-          {
             "id": "73159e0e5c491867",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filosofia/Cartesio.md",
+                "file": "Matematica/Probabilità.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,18 +147,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Filosofia/Cartesio.md",
+                "file": "Matematica/Probabilità.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 265.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,56 +169,60 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7123ea1b93ee5696",
+  "active": "820b72847727faef",
   "lastOpenFiles": [
-    "Filosofia/Spinoza.md",
-    "Filosofia/Cartesio.md",
-    "Italiano/Ugo Foscolo.md",
-    "Latino/Tito Livio.md",
-    "Italiano/Il Preromanticismo.md",
-    "Matematica/Geometria nello spazio.md",
-    "Untitled.md",
-    "Religione/La filosofia cristiana.md",
-    "Latino/Ovidio.md",
-    "Storia/Rivoluzione francese.md",
-    "Fisica/esercizi.excalidraw.md",
-    "Storia/Rivoluzione americana.md",
+    "Matematica/Probabilità.md",
     "Matematica/esercizi.excalidraw.md",
-    "Matematica/compitoTrigonometria2.excalidraw.md",
+    "Matematica/Calcolo combinatorio.md",
     "placeholder-for-lag.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Alternative Pens.svg",
-    "Excalidraw/Scripts/Downloaded/Alternative Pens.md",
-    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "Excalidraw",
-    "Matematica/compitoTrigonometria-Ferrante.pdf",
-    "Matematica/compitoTrigonometria1-Ferrante.svg",
-    "Matematica/compitoTrigonometria2-Ferrante.svg",
-    "Matematica/compitoTrigonometria2.excalidraw.svg",
-    "Matematica/compitoTrigonometria2.excalidraw.png",
-    "Matematica/compitoTrigonometria1.excalidraw.png",
-    "Matematica/compitoTrigonometria1.excalidraw.md",
-    "Matematica/compitoTrigonometria1.excalidraw.svg",
-    "CompitoTrigonometriaFerrante.md",
-    "README.md",
-    "Scienze/embeded/alcani.excalidraw.md",
-    "Religione",
-    "Storia",
     "Scienze/Chimica organica.md",
-    "Scienze/embeded/pentano-esempio2.excalidraw.md",
-    "Scienze/embeded/pentani-esempio.excalidraw.md",
-    "Scienze/embeded/pentano-esempio3.excalidraw.md",
+    "export/Calcolo combinatorio/plugin/chalkboard/README.md",
+    "export/Calcolo combinatorio/plugin/chalkboard/_style.css",
+    "export/Calcolo combinatorio/plugin/chalkboard/img/blackboard.png",
+    "export/Calcolo combinatorio/plugin/chalkboard/img/boardmarker-black.png",
+    "export/Calcolo combinatorio/plugin/chalkboard/img/boardmarker-blue.png",
+    "export/Calcolo combinatorio/plugin/chalkboard/img/boardmarker-green.png",
+    "export/Calcolo combinatorio/plugin/chalkboard/img/boardmarker-orange.png",
+    "export/Calcolo combinatorio/plugin/chalkboard/img/boardmarker-purple.png",
+    "export/Calcolo combinatorio/plugin/chalkboard/img/boardmarker-red.png",
+    "export/Calcolo combinatorio/plugin/chalkboard/img/boardmarker-yellow.png",
+    "export/Calcolo combinatorio/plugin/chalkboard/img/chalk-blue.png",
+    "export/Calcolo combinatorio/plugin/chalkboard/img/chalk-green.png",
+    "export/Calcolo combinatorio/plugin/chalkboard/img",
+    "export/Calcolo combinatorio/plugin/chalkboard/plugin (copy).js",
+    "export/Calcolo combinatorio/plugin/chalkboard/style.css",
+    "export/Calcolo combinatorio/plugin/chalkboard/plugin.js",
+    "export/Calcolo combinatorio/plugin/chalkboard",
+    "export/Calcolo combinatorio/plugin/chart/plugin.js",
+    "export/Calcolo combinatorio/plugin/chart/chart.min.js",
+    "export/Calcolo combinatorio/plugin/chart/README.md",
+    "export/Calcolo combinatorio/plugin/chart",
+    "export/Calcolo combinatorio/plugin/customcontrols/README.md",
+    "export/Calcolo combinatorio/plugin/customcontrols/plugin.js",
+    "export/Calcolo combinatorio/plugin/menu/CONTRIBUTING.md",
+    "export/Calcolo combinatorio/plugin/menu/README.md",
+    "Scienze/Metabolismo.md",
+    "Religione/La filosofia cristiana.md",
+    "Filosofia/Cartesio.md",
+    "Filosofia/Spinoza.md",
+    "Italiano/Il Preromanticismo.md",
+    "Italiano/Ugo Foscolo.md",
+    "ò.md",
+    "Storia/Rivoluzione francese.md",
+    "Storia/Rivoluzione americana.md",
     "Untitled.canvas",
-    "Filosofia/Untitled.canvas",
-    "Filosofia",
-    "Italiano",
-    "Matematica",
-    "Fisica",
-    "Scienze/embeded/alchili.excalidraw.md"
+    "Inglese/Jonathan Swift.md",
+    "Inglese/Daniel Defoe.md",
+    "Latino/Tito Livio.md",
+    "Matematica/Geometria nello spazio.md",
+    "Latino/Ovidio.md",
+    "Fisica/esercizi.excalidraw.md",
+    "Matematica/compitoTrigonometria2.excalidraw.md",
+    "Filosofia/Untitled.canvas"
   ]
 }

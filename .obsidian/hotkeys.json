@@ -1,1 +1,11 @@
-{}
+{
+  "obsidian-excalidraw-plugin:fullscreen": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "."
+    }
+  ]
+}

@@ -1,4 +1,4 @@
 Predilige un rapporto non razionale, ma **sentimentale** con la natura. 
-Dove il Neoclassicismo rappresenta atmosfere *nitide e terse*, il Preromanticismo ha **atmosfere cupe**. Infatti in quest'epoca c'è quasi un **ossessione della morte**.  
+Dove il Neoclassicismo rappresenta atmosfere *nitide e terse*, il Preromanticismo ha **atmosfere cupe**. Infatti in quest'epoca c'è quasi un **ossessione della morte**, al punto che la poesia è definita *sepolcrale*.  
 Nasce, da scrittori come Richardson o Rousseau, il **romanzo epistolare**, ovvero composto da lettere. In questi romanzi non ci sono narratori onniscienti che guidano il lettore, ma è il lettore che deve *capire il contenuto del romanzo dalla suggestione generata*. 
 Essendo lettere sono personali e quindi hanno uno **stile molto sentimentale** e **meno razionale**. 

@@ -1,6 +1,6 @@
 Vive alla fine del settecento, in epoca napoleonica, quando prevale il **Neoclassicismo**. Questa era la corrente artistica preferita da Napoleone perché si comparava all'antica Roma. 
 Foscolo è un personaggio *molto irregolare* e non seguiva le masse. Avvertiva la Grecia come la sua terra d'origine, perché nacque a Zante, che era però di Venezia. 
-Vedeva Napoleone come un eroe, al punto da scrivere un ode dedicata a lui, perché credeva avrebbe liberato il Veneto dall'Austria, ma viene deluso quando scopre che non sarebbe mai successo. 
+Vedeva Napoleone come un eroe, al punto da scrivere un ode dedicata a lui, perché credeva avrebbe liberato il Veneto dall'Austria, ma viene deluso quando scopre che non sarebbe mai successo e che invece Napoleone l'avrebbe data all'Austria. 
 In realtà era a cavallo tra due correnti, il *Neoclassicismo* e il **Preromanticismo**, dove si riconoscono i tratti soprattutto nella sua opera *I Sepolcri*. 
 
 ## Le ultime lettere di Jacopo Ortis
@@ -33,10 +33,21 @@ Quindi lui vedeva le tombe e la morte in modo **laico**, ma è da ricordare che 
 
 Parte negando il valore delle tombe per i morti. Dice che le uniche tombe senza valore sono quelle di *chi non ha lasciano nulla ai vivi*.
 Poi pone la tesi che **il culto funerario è tra le prime espressione di civiltà**. Fa un esempio positivo dell'antichità, dove c'era un rapporto sereno con i morti, contrapposto a quello del Medioevo dove il rapporto con i morti faceva paura. Fa un altro esempio con i cimiteri inglesi di campagna, preesistenti ai cimiteri dell'editto di Saint-Cloud, dove anche qui il rapporto era sereno.
-Invece in Italia c'è un azzeramento della memoria degli antenati con le *fosse comuni*, e dice che proprio l'Italia dovrebbe ricordarli, perché se l'Italia si ricordasse della *gloria romana* ritornerebbe al suo splendore[^2].
+Invece in Italia c'è un azzeramento della memoria degli antenati con le *fosse comuni*, e dice che proprio l'Italia dovrebbe ricordarli, perché se l'Italia si ricordasse della *gloria romana* ritornerebbe al suo splendore[^1].
 Dopo pone un'altra tesi: **le tombe danno forza ai vivi e sono d'esempio**, e dà l'esempio dei caduti della battaglia di Maratona, oppure gli artisti delle tombe di Santa Croce.
 Finisce con il dire che, se non possiamo essere ricordati con le tombe, dobbiamo essere ricordati **con la poesia**, proprio come Omero che dà nuova vita ai suoi eroi, ed egli stesso viene ricordato.
-Quindi il 
+
+## Le *Grazie*
+Sono un progetto poetico di Foscolo al quale ha lavorato moltissimi anni. Si presenta come una traduzione di frammenti di lirica antica. È un inno alle Grazie e non verrà mai portata a termine.
+Il progetto originale, svelato in una composizione a Londra, era di scrivere tre inni: a **Venere**, a **Pallade** e a **Vesta**.
+Il compito delle Grazie era di ispirare gli uomini con obiettivi più elevati della mera sopravvivenza.
+- l primo inno è dedicato a Venere, che ispira gli uomini selvaggi con il suo incanto.
+- Nel secondo inno immagina tre donne che compiono un rito onorario alle Grazie.
+- Il terzo inno è ambientato ad Atlante, dove Pallade cerca rifugio quando le passioni delle Grazie scatenano la guerra tra gli uomini. Quindi qui Pallade fa tessere a delle dee minori un **velo che protegga le Grazie dalle passioni umane**.
+
+Le *Grazie* sono l'opera che avvicina di più Foscolo allo spirito neoclassicistico.
+L'opera è molto descrittiva, parla attraverso **immagini allegoriche**. Le *Grazie* corrispondono alla concezione di ruolo civile della poesia di Foscolo, perché mostrano come l'arte e la cultura guidano la società.
+Usa quindi una **poesia eietica**, che suggerisce al lettore concetti attraverso immagini. 
 
 
-[^2]: Proprio come il suo alter-ego Jacopo Ortis diceva nella sua opera
+[^1]: Proprio come il suo alter-ego Jacopo Ortis diceva nella sua opera
