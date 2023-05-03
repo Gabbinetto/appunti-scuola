@@ -204,15 +204,20 @@
       "id": "editing-toolbar:workplace-fullscreen-focus",
       "name": "workplace-Fullscreen ",
       "icon": "exit-fullscreen"
+    },
+    {
+      "id": "theme:use-light",
+      "name": "Use light mode",
+      "icon": "lightbulb"
     }
   ],
   "appendMethod": "workspace",
   "shouldShowMenuOnSelect": false,
-  "cMenuVisibility": true,
+  "cMenuVisibility": false,
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
   "cMenuWidth": 502,
-  "cMenuFontColor": "#ff0000",
+  "cMenuFontColor": "#d83931",
   "cMenuBackgroundColor": "#fff88f",
   "autohide": false,
   "custom_bg1": "#FFB78B8C",

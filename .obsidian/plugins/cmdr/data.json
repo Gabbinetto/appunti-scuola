@@ -1,0 +1,66 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "cmdr:macro-0",
+      "icon": "arrow-up-circle",
+      "name": "Commander: Change to light default theme and export to PDF",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "theme:switch"
+        },
+        {
+          "action": 0,
+          "commandId": "theme:use-light"
+        },
+        {
+          "action": 0,
+          "commandId": "workspace:export-pdf"
+        },
+        {
+          "action": 0,
+          "commandId": "theme:use-dark"
+        },
+        {
+          "action": 0,
+          "commandId": "theme:switch"
+        }
+      ],
+      "name": "Change to light default theme and export to PDF",
+      "icon": "arrow-up-circle",
+      "startup": false
+    }
+  ],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "Create new drawing"
+    ]
+  },
+  "spacing": "8",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

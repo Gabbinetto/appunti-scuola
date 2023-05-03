@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "820b72847727faef",
+            "id": "ccb292bd4938099f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematica/Probabilità.md",
+                "file": "Filosofia/Spinoza.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matematica/Probabilità.md"
+                "file": "Filosofia/Spinoza.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematica/Probabilità.md",
+                "file": "Filosofia/Spinoza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,14 +147,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matematica/Probabilità.md",
+                "file": "Filosofia/Spinoza.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,14 +171,20 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "cmdr:Commander: Change to light default theme and export to PDF": false
     }
   },
-  "active": "820b72847727faef",
+  "active": "ccb292bd4938099f",
   "lastOpenFiles": [
+    "Filosofia/Cartesio.md",
+    "Filosofia/Spinoza.md",
+    "Filosofia/embeded/SpinozaEtica.excalidraw.md",
+    "Filosofia/embeded/Untitled.canvas",
+    "Filosofia/embeded",
+    "Matematica/Calcolo combinatorio.md",
     "Matematica/Probabilità.md",
     "Matematica/esercizi.excalidraw.md",
-    "Matematica/Calcolo combinatorio.md",
     "placeholder-for-lag.excalidraw.md",
     "Scienze/Chimica organica.md",
     "export/Calcolo combinatorio/plugin/chalkboard/README.md",
@@ -203,13 +209,10 @@
     "export/Calcolo combinatorio/plugin/chart/README.md",
     "export/Calcolo combinatorio/plugin/chart",
     "export/Calcolo combinatorio/plugin/customcontrols/README.md",
-    "export/Calcolo combinatorio/plugin/customcontrols/plugin.js",
     "export/Calcolo combinatorio/plugin/menu/CONTRIBUTING.md",
     "export/Calcolo combinatorio/plugin/menu/README.md",
     "Scienze/Metabolismo.md",
     "Religione/La filosofia cristiana.md",
-    "Filosofia/Cartesio.md",
-    "Filosofia/Spinoza.md",
     "Italiano/Il Preromanticismo.md",
     "Italiano/Ugo Foscolo.md",
     "ò.md",
@@ -222,7 +225,6 @@
     "Matematica/Geometria nello spazio.md",
     "Latino/Ovidio.md",
     "Fisica/esercizi.excalidraw.md",
-    "Matematica/compitoTrigonometria2.excalidraw.md",
     "Filosofia/Untitled.canvas"
   ]
 }

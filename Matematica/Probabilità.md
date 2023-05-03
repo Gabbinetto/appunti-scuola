@@ -31,5 +31,5 @@ Un esempio è il lancio del dado sopracitato. La probabilità che esca un numero
 Gli la probabilità che due eventi indipendenti $E$ ed $F$ accadano insieme
 (*Evento intersezione* $E \cap F$) è data dal prodotto delle due probabilità:
 $$
-P(E \cap F) = P(E) \times P(F)
-$$
+\mathbb{P}(E \cap F) = \mathbb{P}(E) \cdot \mathbb{P}(F)
+$$ 

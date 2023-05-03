@@ -29,7 +29,7 @@ Le idee secondo Cartesio sono **l'oggetto primo del pensiero** e **derivano dall
 ### L'esistenza di Dio
 Dio è *perfetto* è *infinito*, mentre l'uomo è imperfetto e finito. Come potremmo pensare all'idea di perfezione e l'infinità se sono proprietà che non ci appartengono? Cartesio risponde a questa domanda con l'**esistenza di Dio**, che deve essere necessariamente un **idea innata** che ci appartiene quando nasciamo, ed essendo innata non è *indubitabile*.
 
-Le prove fornite da Cartesio (Che sono derivato dalla tradizione *scolastica*) hanno **valore gnoseologico** e **non teologico**. Quindi affronta il problema in *modo razionale* e non *religioso*.
+Le prove fornite da Cartesio (Che sono derivate dalla tradizione *scolastica*) hanno **valore gnoseologico** e **non teologico**. Quindi affronta il problema in *modo razionale* e non *religioso*.
 Dio è, secondo Cartesio, **garante della certezza** che, poiché è perfetto e infinitamente buono, garantisce la certezza delle nostre conoscenze. Questo perché, data la sua infinità bontà, non può aver dotato l'uomo di strumenti per dubitare le nostre conoscenze.
 
 C'è una debolezza argomentativa in ciò. L'evidenza del *cogito* è data dall'esistenza di Dio, ma questa è dimostrazione del *cogito*. Quindi sorge la domanda sul vero fondamento della certezza: il **dubbio** o **Dio**? 

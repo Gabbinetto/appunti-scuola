@@ -4,11 +4,11 @@ Per il calcolo combinatorio servono due tipi di operazioni: **il fattoriale e il
 ### Fattoriale e coefficiente binomiale
 Il fattoriale (che si indica con il punto esclamativo) è il prodotto di un numero per tutti i suoi numeri inferiori fino a uno. Quindi:
 $$
-n! = n \times (n-1) \times (n-2) ... 2 \times 1
+n! = n \cdot (n-1) \cdot (n-2) \cdots 2 \cdot 1
 $$
 Il coefficiente binomiale di due numeri è il rapporto tra il fattoriale del primo per il prodotto del fattoriale del secondo e il fattoriale della differenza del primo e del secondo. Quindi:
 $$
-\binom{n}{m}=\frac{n!}{m!\times(n-m)!}
+\binom{n}{m}=\frac{n!}{m!\cdot(n-m)!}
 $$
 
 
@@ -37,11 +37,11 @@ $$
 Se si considerano le **ripetizioni** degli elementi allora il totale diventa il fattoriale di $n$ diviso per il prodotto del fattoriale delle ripetizioni degli elementi. Per esempio, nella parola *MAMMA* la M si ripete 3 volte e la A 2 volte. Quindi il totale sarà
 $$
 P'_{n}=
-\frac{n!}{r_{M}!\times r_{A}!}=
-\frac{5!}{3!\times 2!}=
-\frac{5 \times 4 \times 3!}{3!\times2!}=
-\frac{5\times4}{2}=
-5\times2=
+\frac{n!}{r_{M}!\cdot r_{A}!}=
+\frac{5!}{3!\cdot 2!}=
+\frac{5 \cdot 4 \cdot 3!}{3!\cdot2!}=
+\frac{5\cdot4}{2}=
+5\cdot2=
 10
 $$
 
@@ -85,5 +85,5 @@ $$
 ### Con ripetizioni
 Se si considerano le **ripetizioni** la formula diventa:
 $$
-C'_{n,k}=\frac{(n-k-1)!}{k!\times(n-k)!}
+C'_{n,k}=\frac{(n-k-1)!}{k!\cdot(n-k)!}
 $$

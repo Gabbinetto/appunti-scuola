@@ -10,6 +10,10 @@ Il senso complessivo della sua filosofia è **liberare l'uomo** da tre forme di 
 - Quella **religiosa**, rappresentata dalla sua stessa vita, con il suo *Trattato teologico-politico* che attacca le **superstizioni** alimentati dalle passioni[^2] e dall'ignoranza
 - Quella **politica**, la politica dove la Chiesa interviene illegittimamente, attraverso uno Stato efficace e principi liberali[^3] e democratici, fondato sui **meccanismi di rappresentanza**
 
+### I tre gradi della conoscenza
+
+
+### La sostanza
 Rifiuta il modello aristotelico e mette al centro dei fenomeni la **causa efficiente**.
 Riconosce tutte le caratteristiche attribuite a Dio dalla Chiesa nella natura.
 Infatti parla di ***Deus sive natura*** (Dio, ossia natura), quel Dio non rappresentabile come uomo è nella natura. Quindi **Dio è natura**[^4].
@@ -26,9 +30,18 @@ Introduce una distinzione che ha radici nella Scolastica: la differenza tra ***N
 
 ### L'etica
 Secondo la prospettiva *meccanicistica*, e non *moralistica*[^9], di Spinola, le passioni non hanno connotazioni negative o positive, quindi, per esempio, *odio* e *amore* hanno lo **stesso valore** e **dignità**, perché **sono entrambe funzionali all'esistenza dell'individuo**.
-Spinoza afferma che il fondamento della vita affettiva dell'uomo è il *conatus*, ovvero la tendenza dell'uomo a **perseverare nel proprio stato**[^10], quindi si può definire lo **sforzo di esistere**.
-Il *conatus* porta all'uomo un aumento della propria potenza, il che porta un *affetto* di **letizia**. Quando quest'aumento è impedito o invertito e l'uomo non può conservare se stesso la mente è affetta da **tristezza**.
+Spinoza afferma che il fondamento della vita affettiva dell'uomo è il *conatus*, ovvero la tendenza dell'uomo a **perseverare nel proprio stato**[^10], quindi si può definire lo **sforzo di esistere** e la *ricerca dell'utile* che porta al proprio benessere.
+Il *conatus* porta all'uomo un aumento della propria *potenza di agire*[^11], il che porta un *affetto*[^12] di **letizia**. Quando quest'aumento è impedito o invertito e l'uomo non può conservare se stesso la mente è affetta da **tristezza**.
 Il **bene** quindi è raggiunto quando la letizia è accompagnata da un idea di ciò che ha provocato il potenziamento.
+![[SpinozaEtica.excalidraw|width:100%]]
+
+L'unico modo per essere liberi è quindi **dominare le passioni**. Per farlo serve la **ragione**, ovvero la comprensione degli affetti.
+Grazie alla ragione possiamo *superare* gli affetti negativi. Con questi intende quelli derivati dalla tristezza e quelli che portano fluttuazioni all'animo come la paura e la speranza.
+Quindi per superare gli affetti negativi bisogna imparare a *perseguire ciò che ci potenzia*. Qui la **ragione diventa saggezza**.
+
+Spinoza ci parla anche di politica, perché afferma che *la cooperazione sociale potenzia l'uomo*. Per questo attribuisce grande potere allo **Stato**, che dovrebbe limitare la Chiesa e favorire i *diritti fondamentali dell'uomo*, che includono la libertà di pensiero e di agire nella sfera privata, stimolando l'uso del pensiero e del corpo senza nuocere a nessuno. Il tutto ha come fine la *libertà*, perché nessuno dovrebbe essere ostacolato o dovrebbe ostacolare gli altri.
+
+
 
 [^1]: Per esempio, la vendita delle indulgenze
 [^2]: Intese come le passioni cartesiane
@@ -38,5 +51,7 @@ Il **bene** quindi è raggiunto quando la letizia è accompagnata da un idea di 
 [^6]: Quindi la sostanza riprende caratteristiche dall'*essere*, come l'essere **increata, eterna, infinita, unica** e **indivisibile**
 [^7]: Le qualità essenziali
 [^8]: Secondo Spinoza, Cartesio commette un errore quando divide questi attributi in due sostanze diverse
-[^9]: Come quella di Cartesio, che dava valori diversi alle passioni.
+[^9]: La *meccanicistica* vede tutto come derivato da *movimento*. Diversa dalla visione di  Cartesio, che dava valori diversi alle passioni.
 [^10]: Concezione basata sul principio di inerzia
+[^11]: Concepita come la *tendenza a conservarsi*
+[^12]: Intese come le passioni di Cartesio
