@@ -10,9 +10,6 @@ Il senso complessivo della sua filosofia è **liberare l'uomo** da tre forme di 
 - Quella **religiosa**, rappresentata dalla sua stessa vita, con il suo *Trattato teologico-politico* che attacca le **superstizioni** alimentati dalle passioni[^2] e dall'ignoranza
 - Quella **politica**, la politica dove la Chiesa interviene illegittimamente, attraverso uno Stato efficace e principi liberali[^3] e democratici, fondato sui **meccanismi di rappresentanza**
 
-### I tre gradi della conoscenza
-
-
 ### La sostanza
 Rifiuta il modello aristotelico e mette al centro dei fenomeni la **causa efficiente**.
 Riconosce tutte le caratteristiche attribuite a Dio dalla Chiesa nella natura.
@@ -32,7 +29,7 @@ Introduce una distinzione che ha radici nella Scolastica: la differenza tra ***N
 Secondo la prospettiva *meccanicistica*, e non *moralistica*[^9], di Spinola, le passioni non hanno connotazioni negative o positive, quindi, per esempio, *odio* e *amore* hanno lo **stesso valore** e **dignità**, perché **sono entrambe funzionali all'esistenza dell'individuo**.
 Spinoza afferma che il fondamento della vita affettiva dell'uomo è il *conatus*, ovvero la tendenza dell'uomo a **perseverare nel proprio stato**[^10], quindi si può definire lo **sforzo di esistere** e la *ricerca dell'utile* che porta al proprio benessere.
 Il *conatus* porta all'uomo un aumento della propria *potenza di agire*[^11], il che porta un *affetto*[^12] di **letizia**. Quando quest'aumento è impedito o invertito e l'uomo non può conservare se stesso la mente è affetta da **tristezza**.
-Il **bene** quindi è raggiunto quando la letizia è accompagnata da un idea di ciò che ha provocato il potenziamento.
+Il **bene** quindi è raggiunto quando la letizia è accompagnata da un idea di ciò che ha provocato il potenziamento. <br>
 ![[SpinozaEtica.excalidraw|width:100%]]
 
 L'unico modo per essere liberi è quindi **dominare le passioni**. Per farlo serve la **ragione**, ovvero la comprensione degli affetti.

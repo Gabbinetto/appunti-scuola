@@ -5,7 +5,7 @@ In realtà era a cavallo tra due correnti, il *Neoclassicismo* e il **Preromanti
 
 ## Le ultime lettere di Jacopo Ortis
 Una delle prime opere di Foscolo era un romanzo epistolare: Le ***Ultime lettere di Jacopo Ortis***. 
-Segue il modello del **Werther**. Delinea una nuova figura di intellettuale con il personaggio di Jacopo Ortis, paragonabile ad un *alter-ego* di Foscolo stesso. 
+Segue il modello del **Werther** di *Goethe*. Delinea una nuova figura di intellettuale con il personaggio di Jacopo Ortis, paragonabile ad un *alter-ego* di Foscolo stesso. 
 In quest'opera incarna la **delusione storica** data da Napoleone quando ha dato via il Veneto. 
 Le lettere sono indirizzate a un certo **Lorenzo Alderi** e non parlano solo di eventi, ma si lasciano molto a ragionamenti sentimentali e filosofici. 
 Ortis è un intellettuale che non si riconosce nei valori della società in cui vive, anticipando l'atteggiamento degli intellettuali del *Decadentismo*, molto avanti al suo tempo. 
@@ -16,7 +16,7 @@ In un momento dell'opera Ortis va a parlare con **Parini**, che qui rappresenta 
 ## I Sonetti
 Foscolo scrive pochi componimenti poetici, perché è troppo perfezionista per scrivere rapidamente poesie e non ha *buoni rapporti* con la lingua italiana. 
 
-Il primo sonetto è *Alla sera* che gioca su una sovrapposizione di immagini: la sera, la donna, la morte. L'**influenza preromantica** si nota qui con la **morte**, qualcosa con cui si deve convivere e accettare. Si vede dai sonetti che Foscolo considera la morte come un ***sonno eterno** che libera dalle preoccupazioni della vita* 
+Il primo sonetto è *Alla sera* che gioca su una sovrapposizione di immagini: la sera, la donna, la morte. L'**influenza preromantica** si nota qui con la **morte**, qualcosa con cui si deve convivere e accettare. Si vede dai sonetti che Foscolo considera la morte come un ***sonno eterno*** *che libera dalle preoccupazioni della vita*. 
 
 Altro sonetto è *In morte del fratello Giovanni*, che pone al centro dell'attenzione, anche qui, la morte. C'è malinconia perché non può tornare in patria per piangere il fratello. La tomba ha significato particolare perché rappresenta il *ricordo di chi non c'è più*, che secondo Foscolo ispirano. 
 
@@ -38,16 +38,17 @@ Dopo pone un'altra tesi: **le tombe danno forza ai vivi e sono d'esempio**, e d�
 Finisce con il dire che, se non possiamo essere ricordati con le tombe, dobbiamo essere ricordati **con la poesia**, proprio come Omero che dà nuova vita ai suoi eroi, ed egli stesso viene ricordato.
 
 ## Le *Grazie*
-Sono un progetto poetico di Foscolo al quale ha lavorato moltissimi anni. Si presenta come una traduzione di frammenti di lirica antica. È un inno alle Grazie e non verrà mai portata a termine.
-Il progetto originale, svelato in una composizione a Londra, era di scrivere tre inni: a **Venere**, a **Pallade** e a **Vesta**.
-Il compito delle Grazie era di ispirare gli uomini con obiettivi più elevati della mera sopravvivenza.
+Sono un progetto poetico di Foscolo al quale ha lavorato moltissimi anni. Si presenta come una traduzione di frammenti di lirica antica. È un inno alle Grazie e non verrà mai portata a termine. È dedicata ad *Antonio Canova*[^2], che nello stesso periodo lavorava alla sua scultura sulle Grazie.
+Il progetto, svelato in una composizione a Londra, era di scrivere tre inni: a **Venere**, a **Pallade** e a **Vesta**[^3].
+Il compito delle Grazie era di ispirare gli uomini con obiettivi più elevati della mera sopravvivenza, tramite i doni fatti loro dagli dèi.
 - l primo inno è dedicato a Venere, che ispira gli uomini selvaggi con il suo incanto.
-- Nel secondo inno immagina tre donne che compiono un rito onorario alle Grazie.
-- Il terzo inno è ambientato ad Atlante, dove Pallade cerca rifugio quando le passioni delle Grazie scatenano la guerra tra gli uomini. Quindi qui Pallade fa tessere a delle dee minori un **velo che protegga le Grazie dalle passioni umane**.
+- Nel secondo inno, dedicato a Vesta, immagina **tre donne** che compiono un rito onorario alle Grazie, che rappresentano la *poesia*, la *musica* e la *danza*, quindi la *bellezza dell'arte*.
+- Il terzo inno è ambientato ad Atlante, dove Pallade, al quale è dedicato, cerca rifugio quando le passioni delle Grazie scatenano la guerra tra gli uomini. Quindi qui Pallade fa tessere a delle dee minori un **velo che protegga le Grazie dalle passioni umane**.
 
 Le *Grazie* sono l'opera che avvicina di più Foscolo allo spirito neoclassicistico.
 L'opera è molto descrittiva, parla attraverso **immagini allegoriche**. Le *Grazie* corrispondono alla concezione di ruolo civile della poesia di Foscolo, perché mostrano come l'arte e la cultura guidano la società.
-Usa quindi una **poesia eietica**, che suggerisce al lettore concetti attraverso immagini. 
-
+Usa quindi una **poesia allegorica**, che suggerisce al lettore concetti attraverso immagini.
 
 [^1]: Proprio come il suo alter-ego Jacopo Ortis diceva nella sua opera
+[^2]: Infatti durante l'opera paragona "la parola del poeta" al "pennello del pittore"
+[^3]: Rispettivamente la *bellezza*, la *sapienza*, e il *focolare*, gli elementi fondamentali, secondo Foscolo, per la civilizzazione umana

@@ -3,11 +3,12 @@
   "quick-latex",
   "obsidian-outliner",
   "cm-editor-syntax-highlight-obsidian",
-  "editing-toolbar",
   "table-editor-obsidian",
   "obsidian-advanced-slides",
   "calendar",
   "obsidian-html-tags-autocomplete",
   "settings-search",
-  "cmdr"
+  "cmdr",
+  "editing-toolbar",
+  "chem"
 ]

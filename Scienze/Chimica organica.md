@@ -82,5 +82,3 @@ Se si presentano alchili diversi: 
 Questo prende il nome di 3ETIL2METILPENTANO, quindi si aggiunge un prefisso per ogni alchile, e i prefissi vanno ordinati in ordine alfabetico (Nel caso di multipli alchili uguali il prefisso numerico non va contato verso il confronto alfabetico). 
 
 Se il gruppo alchilico è un isomero si aggiunge al prefisso dell'alchile –iso.
-
-

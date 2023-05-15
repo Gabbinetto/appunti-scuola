@@ -20,14 +20,17 @@ Dubitando di tutto l'unica cosa di cui si può essere certi è che per dubitare 
 Verso il cogito sono state mosse delle critiche. Prima fra tutte afferma che il cogito si basa sul concetto si **sillogismo**, un'idea di Aristotele, al quale Cartesio andava contro. Infatti secondo l'accusa l'espressione *cogito, ergo sum* è solo un sillogismo abbreviato al quale **manca la premessa maggiore**, perché presupposta.
 Cartesio risponde che *cogito, ergo sum* non fosse un ragionamento che segue dei passaggi, ma un'intuizione immediata di due certezze contemporanee, non successive l'un l'altra[^1].
 
+Inoltre è anche accusato di fare un *ragionamento circolare*, perché il cogito è contemporaneamente *fondamento è giustificazione* della realtà, accuse al quale Cartesio non risponde effettivamente.
+
 ## Le Idee
+Visto che esistiamo e ne siamo certi grazie al *cogito*, dobbiamo anche essere certi di quel che pensiamo, quindi delle nostre **idee**.
 Le idee secondo Cartesio sono **l'oggetto primo del pensiero** e **derivano dalla mente**. Le divide in tre categorie:
-- **Avventizie**, che provengono dall'esterno
-- **Fattizie**, che sono costruite dalla nostra mente
+- **Avventizie**, che provengono dall'esterno, tramite le **esperienze**
+- **Fattizie**, che sono costruite dalla nostra mente, tramite le **esperienze e l'immaginazione**
 - **Innate**, che, appunto, sono innate, quindi *nate con il soggetto*
 
 ### L'esistenza di Dio
-Dio è *perfetto* è *infinito*, mentre l'uomo è imperfetto e finito. Come potremmo pensare all'idea di perfezione e l'infinità se sono proprietà che non ci appartengono? Cartesio risponde a questa domanda con l'**esistenza di Dio**, che deve essere necessariamente un **idea innata** che ci appartiene quando nasciamo, ed essendo innata non è *indubitabile*.
+Dio è *perfetto* e *infinito*, mentre l'uomo è imperfetto e finito. Come potremmo pensare all'idea di perfezione e l'infinità se sono proprietà che non ci appartengono? Cartesio risponde a questa domanda con l'**esistenza di Dio**, che deve essere necessariamente un **idea innata** che ci appartiene quando nasciamo, ed essendo innata non è *indubitabile*.
 
 Le prove fornite da Cartesio (Che sono derivate dalla tradizione *scolastica*) hanno **valore gnoseologico** e **non teologico**. Quindi affronta il problema in *modo razionale* e non *religioso*.
 Dio è, secondo Cartesio, **garante della certezza** che, poiché è perfetto e infinitamente buono, garantisce la certezza delle nostre conoscenze. Questo perché, data la sua infinità bontà, non può aver dotato l'uomo di strumenti per dubitare le nostre conoscenze.
@@ -36,7 +39,12 @@ C'è una debolezza argomentativa in ciò. L'evidenza del *cogito* è data dall'e
 La verità oggettiva richiede sia l'evidenza che l'esistenza di Dio. L'esistenza di Dio non ci esclude dallo sbagliare, quindi l'errore è da posizionare **nell'intelletto umano**, che può essere orientato male.
 
 ## Dualismo cartesiano
+L'ultima certezza di Cartesio è l'esistenza del mondo esterno. Fa l'esempio di un pezzo di cera, che anche se si scioglie vicino al fuoco ciò che rimane uguale è *l'idea di qualcosa esteso nello spazio*, non la sua forma o il suo odore. Quindi il mondo esterno è definito come ***res extensa***, ovvero una sostanza estesa e indefinita. Questa è uniforme e continua, infatti fa l'esempio di una stanza vuota: se non ci fosse l'aria in una stanza i muri si unirebbero, perché non ci sarebbe nulla a separarli, quindi secondo Cartesio l'idea di **vuoto** è **contraddittoria**.
+
 Cartesio distingue la ***res cogitans*** e la ***res extensa***, ovvero la *sostanza pensante* e la *materia estesa*. Cartesio infatti assimila il corpo ad una macchina, perché separa *l'anima* (Il pensiero) dal corpo.
+Ciò presenta un'evidente incongruenza logica, perché Cartesio definisce Dio come la **sostanza prima**, e la *res cogitans* e la *res extensa* come sostanze derivate, ma allo stesso tempo afferma che siano **distinte e indipendenti**.
+
+Secondo Cartesio le due sostanze comunicano tramite la **ghiandola pineale**, unica parte del corpo non simmetrica, che guida gli *spiriti animali* nei **nervi**. Tutto secondo una visione puramente **meccanicistica**.
 
 ## La morale
 L'etica cartesiana esalta la razionalità. La prima qualità è, infatti, **la saggezza**, ovvero *la capacità propria di dominare le proprie passioni*. Se un uomo è guidato da una **valutazione razionale**, allora è un uomo saggio. Il controllo delle passioni si raggiunge attraverso un costante *esercizio di moderazione*, così che lo sforzo sarà sempre minore, fino al raggiungimento della saggezza.
