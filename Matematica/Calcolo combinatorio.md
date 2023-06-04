@@ -22,7 +22,7 @@ Tutti i sottoinsiemi possibili dall'insieme $A$, definiti **insieme delle parti 
 L'insieme delle parti si definisce $P(A)$.
 
 ## Permutazioni
-Sono i diversi modi per ordinare gli elementi $n$ di un insieme con $k$ posti a disposizioni, con $k=n$. Per esempio, le permutazioni di *CIAO* sono:
+Sono i diversi modi per ordinare gli elementi $n$ di un insieme con $k$ posti a disposizioni, con $k=n$. Quindi le diverse sequenze ordinate possibili con $n$ elementi. Per esempio, le permutazioni di *CIAO* sono:
 
 | -    | -    | -    | -    | -    |  -   |
 | ---- | ---- | ---- | ---- | ---- |:----:|
@@ -48,7 +48,12 @@ P'_{n}=
 5\cdot2=
 10
 $$
-
+Infatti, in un insieme senza ripetizioni come *CIAO*, anche qui possiamo dividere per le ripetizioni degli elementi, ma essendo le ripetizioni pari a 1 il denominatore si rimuove:
+$$
+\large
+P'_{\text{CIAO}} = \frac{4!}{r_{C}\cdot r_{I} \cdot r_{A} \cdot r_{O}} =
+\frac{4!}{1\cdot1\cdot1\cdot1} = 4! = P_{\text{CIAO}}
+$$
 
 ## Disposizioni
 Trovano i possibili ordini con $n$ elementi e $k$ posti, con $k<n$, dove l'ordine fa la differenza. Per esempio, con l'insieme $\{a,b,c\}$ le disposizioni, dove $k=2$, possibili sono:
@@ -70,6 +75,7 @@ $$
 \large
 \frac{50!}{(50-3)!} = \frac{50!}{47!} = \frac{50*49*48*47!}{47!} = 50*49*48 = 117600
 $$
+> Le permutazioni, infatti, possono essere pensate come caso particolare di disposizioni, dove $k=n$, infatti con questi due valori uguali: $\large D_{n,n}=\frac{n!}{(n-n)!}=\frac{n!}{1}=n!=P_{n}$.
 ### Con ripetizioni
 Se si considerano le **ripetizioni** diventa molto più semplice. La formula diventa:
 $$
@@ -94,5 +100,5 @@ $$
 Se si considerano le **ripetizioni** la formula diventa:
 $$
 \large
-C'_{n,k}=\frac{(n-k-1)!}{k!\cdot(n-k)!}
+C'_{n,k} = \binom{n+k-1}{k} = \frac{(n+k-1)!}{k! \cdot (n-1)!}
 $$
