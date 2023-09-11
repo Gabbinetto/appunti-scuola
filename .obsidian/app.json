@@ -1,8 +1,5 @@
 {
-  "spellcheckLanguages": [
-    "en-US",
-    "it-IT"
-  ],
+  "spellcheckLanguages": null,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",

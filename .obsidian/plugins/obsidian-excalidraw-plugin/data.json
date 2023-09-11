@@ -14,11 +14,14 @@
   "drawingFilenameDateTime": "",
   "useExcalidrawExtension": true,
   "displaySVGInPreview": true,
+  "previewImageType": "SVGIMG",
+  "allowImageCache": true,
   "displayExportedImageIfAvailable": false,
   "previewMatchObsidianTheme": false,
   "width": "400",
   "dynamicStyling": "colorful",
   "isLeftHanded": false,
+  "iframeMatchExcalidrawTheme": true,
   "matchTheme": true,
   "matchThemeAlways": true,
   "matchThemeTrigger": true,
@@ -69,7 +72,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.2",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.19",
     "libraryItems": [
       {
         "id": "MFR9LP-X1abGkVyJcXuDx",
@@ -95,6 +98,7 @@
             "height": 0,
             "seed": 845990045,
             "groupIds": [],
+            "frameId": null,
             "roundness": {
               "type": 2
             },
@@ -147,6 +151,7 @@
             "groupIds": [
               "cEw_mdaacWpw3d54hfYmP"
             ],
+            "frameId": null,
             "roundness": {
               "type": 2
             },
@@ -192,6 +197,7 @@
             "groupIds": [
               "cEw_mdaacWpw3d54hfYmP"
             ],
+            "frameId": null,
             "roundness": {
               "type": 2
             },
@@ -244,6 +250,7 @@
             "groupIds": [
               "g0eoUnYxmMJmhZmVH6lsy"
             ],
+            "frameId": null,
             "roundness": {
               "type": 2
             },
@@ -275,6 +282,7 @@
               "k2TjLq1AMLIwfh56VuChk",
               "g0eoUnYxmMJmhZmVH6lsy"
             ],
+            "frameId": null,
             "roundness": {
               "type": 2
             },
@@ -321,6 +329,7 @@
               "k2TjLq1AMLIwfh56VuChk",
               "g0eoUnYxmMJmhZmVH6lsy"
             ],
+            "frameId": null,
             "roundness": {
               "type": 2
             },
@@ -373,6 +382,7 @@
             "groupIds": [
               "SgrdIOus0k00AW3s9zEOJ"
             ],
+            "frameId": null,
             "roundness": {
               "type": 2
             },
@@ -403,6 +413,7 @@
             "groupIds": [
               "SgrdIOus0k00AW3s9zEOJ"
             ],
+            "frameId": null,
             "roundness": {
               "type": 2
             },
@@ -440,7 +451,7 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": true,
-  "previousRelease": "1.9.2",
+  "previousRelease": "1.9.19",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js",

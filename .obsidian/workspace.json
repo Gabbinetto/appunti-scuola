@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scienze/Metabolismo.md"
+                "file": "placeholder-for-lag.excalidraw.md"
               }
             }
           },
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scienze/Metabolismo.md",
+                "file": "placeholder-for-lag.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scienze/Metabolismo.md",
+                "file": "placeholder-for-lag.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -171,23 +170,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "cmdr:Commander: Change to light default theme and export to PDF": false,
       "cmdr:Use light mode": false,
-      "cmdr:Use dark mode": false
+      "cmdr:Use dark mode": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d7952f33c5dda05f",
+  "active": "88ca540db701a310",
   "lastOpenFiles": [
+    "Scienze/Metabolismo.md",
     "Italiano/Giacomo Leopardi.md",
     "Fisica/Elettricità.md",
     "latex-math.pdf",
     "Fisica/embeded/CampoElettrico.excalidraw.md",
     "placeholder-for-lag.excalidraw.md",
     "Fisica/esercizi.excalidraw.md",
-    "Scienze/Metabolismo.md",
     "Filosofia/Hobbes.md",
     "Filosofia/Spinoza.md",
     "Italiano/Il Romanticismo.md",
