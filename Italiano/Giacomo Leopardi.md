@@ -18,3 +18,11 @@ Ragionando sulla storia dell'uomo. Leopardi realizza che gli antichi erano più 
 Di questo passo rivaluta la natura. Questo perché la natura non è poi così benigna se ci crea destinati all'infelicità. Semplicemente la natura ha le sue regole, e noi umani le dobbiamo sopportare e seguire. Leopardi afferma che l'umanità ha superato questa tristezza grazie all'infelicità.
 Tutto questo ragionamento lo porta al **pessimismo cosmico**: la natura non è orientata verso la felicità, ma prevede l'infelicità per *tutte* le creature.
 Se siamo destinati all'infelicità, dove troviamo il piacere per allietarci? Lui trova la risposta nell'**illusione**.
+
+## I Canti
+Ha avuto tre edizioni, l'ultima pubblicata dall'amico Ranieri. È una raccolta di componimenti poetici, che ha intervallato alla scrittura di prose. Il termine *Canti* non era molto usato dai poeti al tempo, ma Leopardi decide di dare questo nome all'opera come richiamo alla lirica, predominante nei Canti, e soprattutto a **Petrarca**.
+
+La prima parte è composta dagli *Idilli*. Gli idilli erano un genere di componimento ellenistico, dove la poesia cercava una *via di fuga* nella natura. Leopardi non usa gli idilli con accezione classica, ma i suoi idilli descrivono la sua interiorità tramite paesaggi. Tra questi, fra i più famosi, ci sono alcuni come l'Infinito o Alla luna.
+
+
+Dopo aver composto le Operette morali, dove affronta molte riflessioni filosofiche, torna alla poesia nei Canti in una seconda produzione poetica. Da qui le riflessioni filosofiche trovano strada nella sua poesia.
