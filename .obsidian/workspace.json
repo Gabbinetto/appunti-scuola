@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "68fc803f74b647ee",
+        "id": "50f8c7283fa3eb35",
         "type": "tabs",
         "children": [
           {
-            "id": "8508a9d2769b6019",
+            "id": "6f254ca44c9d0801",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematica/Funzioni.md",
+                "file": "Scienze/Metabolismo.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matematica/Funzioni.md"
+                "file": "Scienze/Metabolismo.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematica/Funzioni.md",
+                "file": "Scienze/Metabolismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matematica/Funzioni.md",
+                "file": "Scienze/Metabolismo.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -178,12 +178,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8508a9d2769b6019",
+  "active": "6f254ca44c9d0801",
   "lastOpenFiles": [
-    "Italiano/Giacomo Leopardi.md",
     "Filosofia/Kant.md",
-    "Storia/L'Imperialismo.md",
+    "Italiano/Giacomo Leopardi.md",
+    "Italiano/esercizi - note/15-10 - Numero 8.md",
+    "Italiano/esercizi - note",
+    "Italiano/esercizio.txt",
+    "Italiano/Nuovo Documento di testo.txt",
     "Matematica/Funzioni.md",
+    "Storia/L'Imperialismo.md",
     "latex-math.pdf",
     "Scienze/Metabolismo.md",
     "placeholder-for-lag.excalidraw.md",
@@ -207,9 +211,7 @@
     "Latino/Tito Livio.md",
     "Fisica/embeded/MessaATerra.excalidraw.md",
     "Fisica/embeded/ForzaDiRepulsione.excalidraw.md",
-    "Fisica/embeded/Untitled.md",
     "Fisica/embeded",
-    "Italiano/Il Preromanticismo.md",
     "Filosofia/embeded/Untitled.canvas",
     "Filosofia/embeded",
     "export/Calcolo combinatorio/plugin/chalkboard/_style.css",
@@ -224,9 +226,6 @@
     "export/Calcolo combinatorio/plugin/chalkboard/img/chalk-blue.png",
     "export/Calcolo combinatorio/plugin/chalkboard/img",
     "export/Calcolo combinatorio/plugin/chalkboard/plugin (copy).js",
-    "export/Calcolo combinatorio/plugin/chalkboard/style.css",
-    "export/Calcolo combinatorio/plugin/chalkboard/plugin.js",
-    "export/Calcolo combinatorio/plugin/chalkboard",
     "Untitled.canvas",
     "Filosofia/Untitled.canvas"
   ]

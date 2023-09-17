@@ -19,15 +19,15 @@ Precisamente nella **matrice**.
 ## Glucosio nella cellula
 
 ### Glicolisi
-La prima **via metabolica**[^1] del catabolismo del glucosio si chiama **glicolisi** e inizia nel **citoplasma** della cellula. 
-È processo del catabolismo dedito a produrre energia. Parte del glucosio, quindi gli altri tipi di zuccheri vanno prima trasformati in glucosio tramite *enzimi*, uno per zucchero.
-Da questo processo c'è un guadagno di **quattro** molecole di ATP, ma **due** di queste vengono usate durante la glicolisi per procedere nelle reazioni.
+La prima **via metabolica**[^1] del catabolismo del glucosio si chiama **glicolisi** e inizia nel **citoplasma della cellula**. Il glucosio è recuperato dal **glicogeno**, un polimero del glucosio. Il corpo immagazzina il glucosio assunto dal cibo sotto forma di glicogeno. 
+La glicolisi è il processo del catabolismo dedito a produrre energia. Parte del glucosio, quindi gli altri tipi di zuccheri vanno prima trasformati in glucosio tramite *enzimi*, uno per zucchero.
+Da questo processo c'è un guadagno di due molecole di *piruvato* e **quattro** molecole di ATP, ma **due** di queste vengono usate durante la glicolisi per procedere nelle reazioni.
 
 - La prima reazione, tramite l'*esochinasi*[^4], trasforma il glucosio in *glucosio-6-fosfato*, perché si aggiunge un gruppo fosfato al carbonio 6. Questa usa una molecola di ATP;
 - La terza reazione, tramite la *fosfofruttochinasi*, sfrutta anch'essa una molecola di ATP, dal quale prende i gruppi fosfati, aggiungendone due alla molecola;
 - Alla quinta reazione il fruttosio, risultato delle reazioni precedenti, viene diviso in *due molecole da tre atomi di carbonio*. Da qui ogni reazione avviene due volte, una per molecola risultante (Chiamate *gliceraideide-3-fosfato*);
 - Dopo arriva un momento cruciale nella via metabolica, dove interviene un *coenzima*, strutture molecolari che collaborano con gli enzimi per far avvenire una reazione, che sposta elettroni.
-  Il coenzima si chiama *$\text{NAD}$*, che si presenta in due forme: $\text{NAD}^{+}$ (Ossidato) e $\text{NADH}$ (Ridotto). Il $\text{NAD}^{+}$ si riduce in $\text{NADH} + \text{H}$ grazie ad una reazione con una molecola di $H_{2}$;
+  Il coenzima si chiama *$\text{NAD}$*, che si presenta in due forme: $\text{NAD}^{+}$ (Ossidato) e $\text{NADH}$ (Ridotto). Il $\text{NAD}^{+}$ si riduce in $\text{NADH} + \text{H}^{+}$ grazie ad una reazione con una molecola di $H_{2}$;
   ![Immagine NAD e NADH|width:100%](https://cdn.shopify.com/s/files/1/0268/1811/7694/files/redox-reaction_480x480.png?v=1625878447)
 - Tramite la *fosfogliceratochinasi*[^5] si sposta un gruppo fosfato dal fosfoglicerato risultato ad una molecola di ADP per produrre una di ATP;
 - Con la *piruvatochinasi* si produce ancora un'altra molecola di ATP
@@ -43,6 +43,8 @@ $$
 Il prodotto finale della glicolisi, il *piruvato*,  ha due possibilità:
 - Se la cellula è in *anossia*[^2], quindi c'è assenza di ossigeno, avviene la **fermentazione lattica**[^3], dove non possono avvenire processi catabolici sul prodotto.
 - Se la cellula ha ossigeno il prodotto si sposta nel mitocondrio. Qui continua il metabolismo del glucosio, atto a formare altra $\text{ATP}$, tramite il **ciclo di Krebs**.
+
+> Da una completa molecola di glucosio si ricavano dalle 28 alle 32 molecole di $\text{ATP}$
 
 ### Il ciclo di Krebs
 Il ciclo di Krebs avviene nella matrice del mitocondrio. Si chiama "ciclo" perché il *prodotto dell'ultima reazione* è uguale al *reagente della prima*. Ovviamente il ciclo va sempre rifornito, tramite la glicolisi.
