@@ -7,6 +7,10 @@ y = f(x)
 $$
 L'insieme $A$ è il *dominio* ed è l'insieme di tutti i valori della variabile *indipendente* $\large x$.
 L'insieme $B$ è il *codominio* ed è l'insieme di tutti i valori della variabile *dipendente* $\large y$, chiamata così perché il suo valore dipende dal valore della variabile indipendente.
+$$
+\large
+\underbrace{D}_{\text{Dominio}} \rightarrow \underbrace{C_{D}}_{\text{Codominio}}
+$$
 
 Per esempio, prendendo una funzione esponenziale:
 $$
@@ -28,6 +32,19 @@ x = y - 3
 $$
 
 Se nell'espressione di una funzione compaiono le funzioni goniometriche, il logaritmo o l'esponenziale la funzione è definita **trascendente**, altrimenti è **algebrica**. In entrambi i casi la funzione può essere *intera* o *fratta*.
+
+## Suriettività, iniettività e biettività
+Una funzione è definita **iniettiva** quando a valori diversi della $\large x$ corrispondono valori diversi della $\large y$:
+$$
+\large
+\forall x_{1} \neq x_{2} \in D \Rightarrow f(x_{1)} \neq f(x_{2})
+$$
+Una funzione è definita **suriettiva** quando ad ogni valore di $\large y$ corrisponde un valore o più di $\large x$:
+$$
+\large
+\forall y \in C_{D} \Rightarrow \exists x \in D / f(x) = y
+$$
+Una funzione è definita **biettiva** quando è sia *iniettiva* che *suriettiva*. Quando una funzione è biettiva, può essere **invertita**.
 
 ## Calcolare il dominio
 
@@ -52,7 +69,13 @@ y = f(x) \\
 x = 0
 \end{cases}
 $$
-
+$$
+\large
+\begin{cases}
+y = f(x) \\
+y = 0
+\end{cases}
+$$
 ## Positività della funzione
 
 Vuol dire stabilire dove la variabile dipendente assume valore positivo e negativo. Per scoprirlo basta porre la funzione come maggiore di 0:
@@ -87,7 +110,7 @@ $$
 \large
 f(-x) = -f(x)
 $$
-Per esempio
+Per esempio:
 $$
 \large
 f(x) = x^{3}
@@ -105,3 +128,10 @@ $$
 -f(x) = f(-x)
 $$
 
+## Monotonia
+Una funzione è **monotòna** quando i valori di $\large y$ sono *crescenti* o *decrescenti*:
+$$\large
+\forall x_{1} < x_{2} \Rightarrow y_{1} < y_{2}
+\cup
+\forall x_{1} <  x_{2} \Rightarrow y_{1} > y_{2}
+$$

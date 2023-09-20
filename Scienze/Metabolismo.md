@@ -46,17 +46,6 @@ Il prodotto finale della glicolisi, il *piruvato*,  ha due possibilità:
 
 > Da una completa molecola di glucosio si ricavano dalle 28 alle 32 molecole di $\text{ATP}$
 
-### Il ciclo di Krebs
-Il ciclo di Krebs avviene nella matrice del mitocondrio. Si chiama "ciclo" perché il *prodotto dell'ultima reazione* è uguale al *reagente della prima*. Ovviamente il ciclo va sempre rifornito, tramite la glicolisi.
-Il piruvato, prima di entrare nel ciclo, viene trasformato in *acetil-CoA*. Questo reagisce con l'*ossalacetato* (Ultimo prodotto del ciclo di Krebs).
-I coenzimi che appaiono sono il $\text{NAD}^{+}$ e il *$\text{FAD}$*, e nella forma ridotta è *$FADH_{2}$*.
-La quinta reazione del ciclo è l'unica che produce una molecola di energia, ma non $\text{ATP}$, invece si produce $\text{GTP}$. La differenza tra $\text{ATP}$ e $\text{GTP}$ è la base azotata, da *adenina* a *guanina*. Il $\text{GTP}$ però serve a donare il suo fosfato ad una molecola di $\text{ADP}$ per avere una $\text{ATP}$.
-
-![Ciclo di Krebs](https://www.microbiologiaitalia.it/wp-content/uploads/2020/11/immagine-2.png)
-
-Se vista dopo la glicolisi questa è una via catabolica (Che avviene due volte, perché due sono i piruvati prodotti dalla glicolisi), ma in realtà questa è una **via anfibolica**. Quindi può essere sia una via catabolica che anabolica. Questo perché può iniziare da una qualsiasi sua reazione, e quindi può *agganciarsi* a qualunque via metabolica[^6].  
-
-
 ### La fermentazione
 Avviene nel citoplasma. Senza ossigeno, per continuare a produrre energia, la cellula deve continuare a fare la glicolisi, che è una via **anaerobica**[^7]. Per farlo serve $\text{NAD}^{+}$ ossidato. Quindi la fermentazione  **ossida il $\text{NADH}$** per rifare la glicolisi.
 Esistono due tipi di fermentazione: **lattica** e **alcolica**.
@@ -66,7 +55,29 @@ Quella alcolica avviene nei **lieviti**, organismi unicellulari. Questi sono, in
 La fermentazione avviene con una sola reazione. Il piruvato, attraverso l'enzima *lattato-deidrogenasi*, diventa **acido lattico**. Da questa reazione il $\text{NADH}(\text{H}^{+})$ viene ossidato di nuovo in $\text{NAD}^{+}$ per venire utilizzato nella glicolisi.
 
 La fermentazione alcolica avviene con due reazioni. La prima reazione, tramite il *piruvato decarbossilassi* (Priva di carbonio), passa dal piruvato all'**acetaldeide**, producendo *$CO_{2}$*. Dopodiché l'acetaldeide subisce una seconda reazione che produce **etanolo**, grazie all'*alcol deidrogenasi*, e ossida il $\text{NADH}(\text{H}^{+})$. Quindi il $\text{NAD}^{+}$ viene usato per la glicolisi.
+### Il ciclo di Krebs
+Il ciclo di Krebs avviene nella matrice del mitocondrio. Si chiama "ciclo" perché il *prodotto dell'ultima reazione* è uguale al *reagente della prima*. Ovviamente il ciclo va sempre rifornito, tramite la glicolisi.
+Il piruvato, prima di entrare nel ciclo, viene trasformato in *acetil-CoA*. Questo reagisce con l'*ossalacetato* (Ultimo prodotto del ciclo di Krebs).
+I coenzimi che appaiono sono il $\text{NAD}^{+}$ e il *$\text{FAD}$*, e nella forma ridotta è *$FADH_{2}$*.
+La quinta reazione del ciclo è l'unica che produce una molecola di energia, ma non $\text{ATP}$, invece si produce **$\text{GTP}$**. La differenza tra $\text{ATP}$ e $\text{GTP}$ è la base azotata, da *adenina* a *guanina*. L'energia della $\text{GTP}$ viene usata per realizzare una $\text{ATP}$.
 
+![Ciclo di Krebs](https://www.microbiologiaitalia.it/wp-content/uploads/2020/11/immagine-2.png)
+
+Se vista dopo la glicolisi questa è una via catabolica (Che avviene due volte, perché due sono i piruvati prodotti dalla glicolisi), ma in realtà questa è una **via anfibolica**. Quindi può essere sia una via catabolica che anabolica. Questo perché può iniziare da una qualsiasi sua reazione, e quindi può *agganciarsi* a qualunque via metabolica[^6].  
+
+### Fosforilazione ossidativa
+Avviene grazie alla presenza di complessi proteici della membrana interna del mitocondrio, precisamente tra lo *spazio intermembrana* e la *matrice*.
+
+![Schema|width:100%](https://www.projectinvictus.it/wp-content/uploads/2022/10/fosforilazione-ossidativa-processo-scaled.jpg)
+
+Il complesso $\text{I}$ un catione $\text{H}^{+}$ viene portato tramite trasporto *attivo*[^8], usando la $\text{ATP}$ nel ciclo di Krebs, nello spazio intermembrana. Gli elettroni sottratti dall'$\text{H}_{2}$ sono assorbiti dal complesso. 
+
+Nel complesso $\text{II}$, $\text{III}$ e $\text{IV}$ vengono trasportati gli elettroni per produrre una molecola di $\text{H}_{2}\text{O}$ e vengono riossidati i coenzimi. Infatti, senza ossigeno nella cellula la fosforilazione non può avvenire.
+
+Gli $\text{H}^{+}$ nello spazio intermembrana vengono reintrodotti nella matrice tramite la **ATP sintasi** per trasporto passivo con gradiente. Il passaggio dei cationi per la ATP sintasi ne causa l'attivazione.
+L'ATP sintasi è composta da subunità $\alpha$ e $\beta$, paragonabili a eliche. Grazie all'attivazione queste eliche girano, e l'energia meccanica[^9] viene trasformata in energia chimica usata per la sintetizzazione di $\text{ATP}$.
+
+Dal processo completo si producono dalle 22 alle 26 molecole di $\text{ATP}$.
 
 [^1]: Insieme di reazioni chimiche coinvolte in processi catabolici e anabolici. I prodotti delle reazioni diventano i reagenti della reazione successiva
 [^2]: Una condizione anormale, quindi quando manca l'ossigeno (Per esempio dopo un grande sforzo fisico)
@@ -75,3 +86,5 @@ La fermentazione alcolica avviene con due reazioni. La prima reazione, tramite i
 [^5]: Generalmente il prefisso prima di *-chinasi* indica il reagente della reazione.
 [^6]: Infatti fa parte anche della biosintesi dei lipidi, per esempio.
 [^7]: Che non ha bisogno di ossigeno.
+[^8]: Quindi è *contro gradiente*.
+[^9]: Ricavata dalla forza protonica dei cationi.
