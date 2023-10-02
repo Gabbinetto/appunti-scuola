@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "58749ffce89a062c",
+        "id": "0bf6abd509dbd2af",
         "type": "tabs",
         "children": [
           {
-            "id": "2946e3cacd7a35d4",
+            "id": "e164ff8024a3c790",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Giacomo Leopardi.md",
-                "mode": "source",
+                "file": "Scienze/Metabolismo.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Giacomo Leopardi.md"
+                "file": "Scienze/Metabolismo.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Giacomo Leopardi.md",
+                "file": "Scienze/Metabolismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Giacomo Leopardi.md",
+                "file": "Scienze/Metabolismo.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -155,8 +155,17 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "c2f38cc4257127f3",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,43 +185,45 @@
       "cmdr:Use light mode": false,
       "cmdr:Use dark mode": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "2946e3cacd7a35d4",
+  "active": "e164ff8024a3c790",
   "lastOpenFiles": [
-    "A se stesso.md",
-    "Scienze/Metabolismo.md",
     "Italiano/Giacomo Leopardi.md",
-    "latex-math.pdf",
+    "Untitled.md",
     "Matematica/Funzioni.md",
+    "Storia/L'Imperialismo.md",
+    "Fisica/Elettricità.md",
+    "Età postunitaria.md",
+    "Fisica/embeded/CampoElettrico.excalidraw.md",
+    "Fisica/embeded/ForzaDiRepulsione.excalidraw.md",
+    "Fisica/embeded/MessaATerra.excalidraw.md",
+    "Scienze/Metabolismo.md",
     "Filosofia/Kant.md",
+    "Arte/Impressionismo.md",
+    "Arte/Post-Impressionismo.md",
+    "Latino/Il periodo imperiale.md",
+    "Italiano/Ugo Foscolo.md",
+    "latex-math.pdf",
+    "Scienze/Chimica organica.md",
+    "Scienze/Biotecnologie.md",
+    "Inglese/Jonathan Swift.md",
+    "Inglese/Daniel Defoe.md",
+    "Matematica/Intervalli.md",
+    "Arte",
+    "Matematica/Probabilità.md",
+    "Italiano/La ginestra.md",
+    "Filosofia/Hobbes.md",
+    "A se stesso.md",
     "Italiano/esercizi - note/15-10 - Numero 8.md",
     "Italiano/esercizi - note",
     "Italiano/esercizio.txt",
     "Italiano/Nuovo Documento di testo.txt",
-    "Storia/L'Imperialismo.md",
     "placeholder-for-lag.excalidraw.md",
-    "Fisica/Elettricità.md",
-    "Fisica/embeded/CampoElettrico.excalidraw.md",
-    "Fisica/esercizi.excalidraw.md",
-    "Filosofia/Hobbes.md",
-    "Filosofia/Spinoza.md",
-    "Italiano/Il Romanticismo.md",
-    "Matematica/Calcolo combinatorio.md",
-    "Matematica/Probabilità.md",
-    "Matematica/esercizi.excalidraw.md",
     "Matematica/esercizi.excalidraw.svg",
-    "Religione/La filosofia cristiana.md",
-    "Italiano/Ugo Foscolo.md",
-    "Filosofia/Cartesio.md",
-    "Inglese/Daniel Defoe.md",
-    "Inglese/Jonathan Swift.md",
     "Unconfirmed 242519.crdownload",
-    "Scienze/Chimica organica.md",
-    "Latino/Tito Livio.md",
-    "Fisica/embeded/MessaATerra.excalidraw.md",
-    "Fisica/embeded/ForzaDiRepulsione.excalidraw.md",
     "Fisica/embeded",
     "Filosofia/embeded/Untitled.canvas",
     "Filosofia/embeded",
@@ -227,7 +238,6 @@
     "export/Calcolo combinatorio/plugin/chalkboard/img/boardmarker-yellow.png",
     "export/Calcolo combinatorio/plugin/chalkboard/img/chalk-blue.png",
     "export/Calcolo combinatorio/plugin/chalkboard/img",
-    "export/Calcolo combinatorio/plugin/chalkboard/plugin (copy).js",
     "Untitled.canvas",
     "Filosofia/Untitled.canvas"
   ]

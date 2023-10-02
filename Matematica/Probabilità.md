@@ -17,7 +17,7 @@ $p(E)$ risulterà sempre un valore tra 0 e 1, dove:
 - Se è 0 è *impossibile*
 - Se è 1 è *certo*
   
-> Moltiplicando $p(E)$ per 100 si ha la probabilità in percentuale.
+> Moltiplicando $p(E)$ per 100 si ottiene la probabilità in percentuale.
 
 Per avere la probabilità che l'evento **non accada** si sottrae la probabilità a $1$:
 $$
@@ -68,7 +68,7 @@ $$
 E = \{1, 2, 3\}  \\
 F = \{2, 4, 5\} \\
 E \cup F = \{1, \boldsymbol{2}, 3, \boldsymbol{2}, 4, 5\} \\
-E \cap F = \{2\}
+E \cap F = \{2\}\\
 \end{align*}
 $$
 Il $2$ viene contato due volte. Quindi, sottraendo l'intersezione si ha l'insieme dove ogni elemento appare una volta.

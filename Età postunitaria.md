@@ -1,0 +1,21 @@
+A metà dell'ottocento, con l'unità d'Italia, arrivano cambiamenti anche nella letteratura. Sul piano politico l'unificazione non porta grossi cambiamenti^[Perché al suffragio universale maschile si arriverà solo nel 1913.].
+Quindi l'Italia, sul piano economico e sociale, rimane ancora arretrato. Questo soprattutto perché il governo era di destra, la **Destra storica**, che diffidava dallo sviluppo industriale e credeva ancora fermamente nell'agricoltura^[Che assicurava pace e stabilità.]. Infatti, per promuovere l'agricoltura, abbassarono le *tasse doganali*, così che i prodotti agricoli fossero più facilmente esportabili. Questo però porta problemi per i produttori manufatturieri. Molti investimenti si fecero, invece, sulle infrastrutture. Quindi si investe molto su determinati settori e causa gravi problemi economici al paese.
+Nel **1876** sale, invece, la **Sinistra liberale**. Questi spingevano sulla manifattura e sullo sviluppo industriale. Più precisamente, nascono grandi **impianti siderurgici** per supportare la produzione d'armi, questo perché la Sinistra spingeva anche sulla **milizia armata**, formando la **Triplice Alleanza** con Austria e Prussia.
+Con l'arrivo dei prodotti americani, però, la concorrenza causa la **crisi agraria**, che stimola l'accelerazione del progresso nel settore agricolo.
+In seguito a tutto questo, però, si causa l'**impoverimento del meridione**, creando un divario che affligge il paese ancora oggi tra Nord e Sud. Infatti, già al tempo, nacque la **questione meridionale**.
+Davanti a tante difficoltà si vedono nascere grandi **emigrazioni di massa** verso l'Europa e poi l'America^[Motivo per il quale oggi si vedono molte discendenze italiane, soprattutto siciliane, in America e luoghi come *Little Italy*.].
+
+## La lingua
+Nonostante l'unità, in Italia non c'era una lingua comune. L'Italia ha sempre avuto tante culture diverse e tanti dialetti diversi^[Alcuni considerati anche lingue a sé come il sardo.]. Senza una lingua comune lo Stato non poteva comunicare con la gente. Così si crea una commissione per individuare la lingua che diverrà comune nel Paese. A capo del processo ci fu **Manzoni**, che individuò il **fiorentino parlato** come lingua comune. Però l'80% degli italiani era analfabeta, così si formarono strutture con maestri formati ad insegnare la lingua, combattendo l'uso dei dialetti.
+
+La diffusione, lenta e difficile^[Ancora non conclusa.], viene facilitata molto da alcuni fattori:
+-  Gli scambi sul mercato nazionale
+- La leva militare, che metteva in contatto giovani di regioni diverse
+- L'estendersi della burocrazia
+- Le immigrazioni
+- La diffusione dei giornali e dei <i>mass media</i>
+
+## Il Positivismo
+È una corrente che caratterizzò tutta Europa. Lasciando stare l'Italia, questo è un periodo in Europa di grande sviluppo e progresso^[Per esempio, iniziano a nascere i vaccini]. Questi sviluppi positivi portano grande ottimismo nella gente. Ci si affida alla *scienza*, che promuove l'evoluzione tecnica in tutti i campi. Infatti si appoggia il **metodo scientifico**, e quindi si crede in una conoscenza oggettiva e razionale in tutti i campi, non spirituale. Quindi, il positivo del **Positivismo** indica ciò che è *certo e osservabile*, non la positività.
+Una delle più grande teorie della storia, oggi confermata, viene ideata in quest'epoca: **la teoria evoluzionistica di Darwin**. Da ciò nacque un grave problema. La gente vide questa teoria come una soluzione generale e venne applicata in ambiti non adatti, soprattutto quello sociale. Infatti si diceva che i poveri lo fossero perché incapaci di adattarsi al mondo, mentre i forti erano coloro capaci di adattarsi. Ciò portava ad una visione che abbandonava ai poveri. Questo è definito **darwinismo sociale**.
+**Giovanni Verga**, che aderisce alla teoria di Darwin, va contro il darwinismo sociale^[Soprattutto perché proveniente dal Sud]. Non ha una visione positiva del progresso e lo compara all'alta marea^[Che lascia sulla sabbia organismi morenti sulla sabbia.]. Il progresso, per Verga, è pericoloso perché è come una scommessa, quindi bisogna "aggrapparsi al proprio scoglio".

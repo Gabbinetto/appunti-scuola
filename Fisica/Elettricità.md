@@ -1,11 +1,11 @@
 Un atomo è elettrizzato **se il numero di elettroni varia**. Precisamente acquista carica positiva se perde elettroni e acquista carica negativa se guadagna elettroni. Questo perché gli elettroni hanno *carica negativa* e i protoni hanno *carica positiva*.
 
 Ci sono tre tipi di elettrizzazione:
-- **Strofinio**: Strofinando due corpi si possono scambiare elettroni, quindi le cariche saranno diverse
-- **Contatto**: Lo scambio avviene semplicemente per contatto, ma solo se almeno uno dei corpi non è neutro. Le cariche risultanti saranno uguali.
+- **Strofinio**: Strofinando due corpi si possono scambiare elettroni, quindi le cariche saranno <u>opposte</u>.
+- **Contatto**: Lo scambio avviene semplicemente per contatto, ma solo se almeno uno dei corpi non è neutro. Le cariche risultanti saranno <u>uguali</u>.
 - **Induzione**: Per semplice avvicinamento, senza contatto. Gli atomi si polarizzano, e gli elettroni/protoni si avvicinano alla carica esterna.
   Senza una messa a terra il corpo rimane, in realtà, neutro. Se c'è, invece, le particelle 
-  sub-atomiche non attratte si allontanano da quelle attratte e si distribuiscono a terra; così la carica cambia e le cariche risultanti saranno opposte.
+  sub-atomiche non attratte si allontanano da quelle attratte e si distribuiscono a terra; così la carica cambia e le cariche risultanti saranno <u>opposte</u>.
   ![[MessaATerra.excalidraw]]
 
 ## La forza di attrazione o repulsione (Coulomb)
@@ -16,8 +16,10 @@ La forza di attrazione/repulsione, chiamata **forza di Coulomb**, ha modulo e di
 L'intensità si calcola con la **legge di Coulomb**:
 $$
 \large
+\bbox[yellow]{
 |\overrightarrow{F_{C}}| =
 \frac{Q_{1} \cdot Q_{2}}{d^{2}} \cdot K_{0} 
+}
 $$
 
 Dove:
@@ -25,7 +27,6 @@ Dove:
 - $d$ è la distanza fra le cariche
 - $K_{0}$ è la *costante di proporzionalità nel vuoto*, che è: $\large K_{0} = 8.987 \frac{N \cdot m^{2}}{C^{2}}$ 
 	- Più precisamente, è calcolata tramite $\large \frac{1}{4\pi\varepsilon_{0}}$
-	- La costante nel vuoto si chiama $K_{0}$ e assume il valore di $8.99 \cdot 10^{9}$
 
 ### La costante di proporzionalità e la costante dielettrica
 $K$ è un fattore di proporzionalità, dove nel vuoto assume il valore di *$\large 8.99 \cdot 10^{9} \frac{N \cdot m^{2}}{C^{2}}$*.
@@ -37,9 +38,9 @@ Dove $\varepsilon$ è assoluta o relativa, a seconda del contesto.
 $\large\varepsilon$ è la costante dielettrica e dipende dal materiale del mezzo. Nel vuoto è *$\large 8.854 \cdot 10^{-12} \frac{C^{2}}{N \cdot m^{2}}$*.
 In un mezzo la costante dielettrica è
 $$\large
-\varepsilon_{m} = \varepsilon_{0} \cdot \varepsilon_{r,m}
+\varepsilon_{m} = \varepsilon_{0} \cdot \varepsilon_{r}
 $$
-Dove $\large \varepsilon_{r,m}$ dipende dal mezzo di trasmissione e sono valori tabulati.
+Dove $\large \varepsilon_{r}$, detta *relativa*, dipende dal mezzo di trasmissione e sono valori tabulati.
 
 
 ## Il campo elettrico
@@ -50,9 +51,12 @@ $$
 \underbrace{\vec{E}}_{N/C} = \frac{\vec{F}}{q}
 $$
 Applicando la legge di Coulomb:
+
 $$
 \large
+\bbox[yellow]{
 \vec{E} = K_{0} \cdot \frac{Q \cdot q}{d^{2} \cdot q} = \frac{K_{0}\cdot Q}{d^{2}}
+}
 $$
 Dove $\large Q$ è la *carica generatrice*. Quindi si nota come in realtà la carica esploratrice non influisce sul campo elettrico, e ci serve solo a misurarlo.
 
@@ -131,10 +135,13 @@ $$
 Essendo la somma delle tante piccole superfici, la formula si può scrivere anche come il prodotto del campo elettrico e la **superficie totale**:
 $$
 \large
-\Phi_{\Omega}(\vec{E}) = \vec{E} \cdot S
+\Phi_{\Omega}(\vec{E}) = \vec{E} \cdot \Delta S
 $$
 ### Teorema di Gauss
 Secondo il teorema di Gauss, il flusso del campo elettrico di una **superficie chiusa** è pari al rapporto tra *carica totale entro la superficie* e la *costate dielettrica del vuoto*:
 $$\large
 \Phi_{\Omega}(\vec{E}) = \frac{Q_{\text{tot}}}{\varepsilon_{0}}
 $$
+
+# Potenziale elettrico
+

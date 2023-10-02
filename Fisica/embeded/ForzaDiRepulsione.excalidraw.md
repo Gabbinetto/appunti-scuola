@@ -30,7 +30,7 @@ F ^AIHCNzj0
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.26",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.19",
 	"elements": [
 		{
 			"type": "ellipse",
@@ -54,6 +54,7 @@ F ^AIHCNzj0
 			"groupIds": [
 				"g0eoUnYxmMJmhZmVH6lsy"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -90,6 +91,7 @@ F ^AIHCNzj0
 				"k2TjLq1AMLIwfh56VuChk",
 				"g0eoUnYxmMJmhZmVH6lsy"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -136,6 +138,7 @@ F ^AIHCNzj0
 				"k2TjLq1AMLIwfh56VuChk",
 				"g0eoUnYxmMJmhZmVH6lsy"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -181,6 +184,7 @@ F ^AIHCNzj0
 			"groupIds": [
 				"SgrdIOus0k00AW3s9zEOJ"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -216,6 +220,7 @@ F ^AIHCNzj0
 			"groupIds": [
 				"SgrdIOus0k00AW3s9zEOJ"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -259,6 +264,7 @@ F ^AIHCNzj0
 			"height": 1.6797175092308407,
 			"seed": 1639056413,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -306,6 +312,7 @@ F ^AIHCNzj0
 			"height": 0,
 			"seed": 1294447997,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -349,10 +356,11 @@ F ^AIHCNzj0
 			"y": 260,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 20.66400146484375,
+			"width": 20.663986206054688,
 			"height": 45,
 			"seed": 240494429,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1683278822409,
@@ -367,7 +375,7 @@ F ^AIHCNzj0
 			"containerId": null,
 			"originalText": "F",
 			"lineHeight": 1.25,
-			"baseline": 32
+			"baseline": 31
 		},
 		{
 			"type": "text",
@@ -385,10 +393,11 @@ F ^AIHCNzj0
 			"y": 260,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 20.66400146484375,
+			"width": 20.663986206054688,
 			"height": 45,
 			"seed": 240494429,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1683278827260,
@@ -403,7 +412,7 @@ F ^AIHCNzj0
 			"containerId": null,
 			"originalText": "F",
 			"lineHeight": 1.25,
-			"baseline": 32
+			"baseline": 31
 		},
 		{
 			"type": "text",
@@ -421,10 +430,11 @@ F ^AIHCNzj0
 			"y": 180,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 251.4241180419922,
+			"width": 251.42393493652344,
 			"height": 45,
 			"seed": 117469555,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1683278867400,
@@ -439,7 +449,7 @@ F ^AIHCNzj0
 			"containerId": null,
 			"originalText": "ATTRAZIONE",
 			"lineHeight": 1.25,
-			"baseline": 32
+			"baseline": 31
 		},
 		{
 			"type": "ellipse",
@@ -463,6 +473,7 @@ F ^AIHCNzj0
 			"groupIds": [
 				"monahrB_Q9mCddy4ou4--"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -499,6 +510,7 @@ F ^AIHCNzj0
 				"BIkyfqp9YESKpRL4cd8bm",
 				"monahrB_Q9mCddy4ou4--"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -545,6 +557,7 @@ F ^AIHCNzj0
 				"BIkyfqp9YESKpRL4cd8bm",
 				"monahrB_Q9mCddy4ou4--"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -588,6 +601,7 @@ F ^AIHCNzj0
 			"height": 0,
 			"seed": 1639056413,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -635,6 +649,7 @@ F ^AIHCNzj0
 			"height": 0,
 			"seed": 1294447997,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -678,10 +693,11 @@ F ^AIHCNzj0
 			"y": 540,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 20.66400146484375,
+			"width": 20.663986206054688,
 			"height": 45,
 			"seed": 240494429,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1683278911088,
@@ -696,7 +712,7 @@ F ^AIHCNzj0
 			"containerId": null,
 			"originalText": "F",
 			"lineHeight": 1.25,
-			"baseline": 32
+			"baseline": 31
 		},
 		{
 			"type": "text",
@@ -714,10 +730,11 @@ F ^AIHCNzj0
 			"y": 540,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 20.66400146484375,
+			"width": 20.663986206054688,
 			"height": 45,
 			"seed": 240494429,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1683278908992,
@@ -732,7 +749,7 @@ F ^AIHCNzj0
 			"containerId": null,
 			"originalText": "F",
 			"lineHeight": 1.25,
-			"baseline": 32
+			"baseline": 31
 		},
 		{
 			"type": "text",
@@ -750,10 +767,11 @@ F ^AIHCNzj0
 			"y": 460,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 234.82809448242188,
+			"width": 234.8279266357422,
 			"height": 45,
 			"seed": 117469555,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1683278879695,
@@ -768,7 +786,7 @@ F ^AIHCNzj0
 			"containerId": null,
 			"originalText": "REPULSIONE",
 			"lineHeight": 1.25,
-			"baseline": 32
+			"baseline": 31
 		},
 		{
 			"type": "ellipse",
@@ -792,6 +810,7 @@ F ^AIHCNzj0
 			"groupIds": [
 				"WoHfO5qleQQcpAanTzSQX"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -828,6 +847,7 @@ F ^AIHCNzj0
 				"eKXT6kTnwR1Vti68R6u1F",
 				"WoHfO5qleQQcpAanTzSQX"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -874,6 +894,7 @@ F ^AIHCNzj0
 				"eKXT6kTnwR1Vti68R6u1F",
 				"WoHfO5qleQQcpAanTzSQX"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -917,6 +938,7 @@ F ^AIHCNzj0
 			"height": 0,
 			"seed": 2060692275,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -960,6 +982,7 @@ F ^AIHCNzj0
 			"height": 0,
 			"seed": 1639056413,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -1007,6 +1030,7 @@ F ^AIHCNzj0
 			"height": 0,
 			"seed": 1294447997,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -1050,10 +1074,11 @@ F ^AIHCNzj0
 			"y": 740,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 20.66400146484375,
+			"width": 20.663986206054688,
 			"height": 45,
 			"seed": 240494429,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1683280857258,
@@ -1068,7 +1093,7 @@ F ^AIHCNzj0
 			"containerId": null,
 			"originalText": "F",
 			"lineHeight": 1.25,
-			"baseline": 32
+			"baseline": 31
 		},
 		{
 			"type": "text",
@@ -1086,10 +1111,11 @@ F ^AIHCNzj0
 			"y": 740,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 20.66400146484375,
+			"width": 20.663986206054688,
 			"height": 45,
 			"seed": 240494429,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1683280857258,
@@ -1104,7 +1130,7 @@ F ^AIHCNzj0
 			"containerId": null,
 			"originalText": "F",
 			"lineHeight": 1.25,
-			"baseline": 32
+			"baseline": 31
 		},
 		{
 			"type": "ellipse",
@@ -1128,6 +1154,7 @@ F ^AIHCNzj0
 			"groupIds": [
 				"SwoYXp6qcs7lksQb4rx9t"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -1163,6 +1190,7 @@ F ^AIHCNzj0
 			"groupIds": [
 				"SwoYXp6qcs7lksQb4rx9t"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -1208,6 +1236,7 @@ F ^AIHCNzj0
 			"groupIds": [
 				"FE8lXfDsX9YUD4nNH-TKV"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -1243,6 +1272,7 @@ F ^AIHCNzj0
 			"groupIds": [
 				"FE8lXfDsX9YUD4nNH-TKV"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -1268,7 +1298,7 @@ F ^AIHCNzj0
 		}
 	],
 	"appState": {
-		"theme": "dark",
+		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#495057",
 		"currentItemBackgroundColor": "transparent",
@@ -1289,9 +1319,19 @@ F ^AIHCNzj0
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,
+		"gridColor": {
+			"Bold": "#C9C9C9FF",
+			"Regular": "#EDEDEDFF"
+		},
 		"colorPalette": {},
 		"currentStrokeOptions": null,
-		"previousGridSize": null
+		"previousGridSize": null,
+		"frameRendering": {
+			"enabled": true,
+			"clip": true,
+			"name": true,
+			"outline": true
+		}
 	},
 	"files": {}
 }
