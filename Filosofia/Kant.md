@@ -7,7 +7,7 @@ Nel 1795 scrive "*Per la pace perpetua*" dove scrive di sperare in un tempo in c
 
 A 46 anni scrive una dissertazione, *La forma e i principi del mondo sensibile*, che inizia il suo criticismo.
 
-## La Critica della ragion pura
+## La <i>Critica della ragion pura</i>
 Kant definisce la ragione "un'imputata" e al tempo stesso un giudice.
 Si chiede cosa rende le scienze tali, quindi cosa rende il loro sapere universale e necessario. Invece, della metafisica, si chiede se sia effettivamente una scienza o meno, e se sia possibile renderla una scienza.
 
@@ -49,3 +49,15 @@ Osserva anche la prova cosmologica di Tommaso D'Aquino. Kant associava nei conce
 Quindi secondo Kant la *teologia razionale* non è una scienza, e nessuno dopo di lui ha provato a smontare le sue tesi. 
 
 Secondo Kant la scienza deve usare le tre idee in modo *regolativo*, ovvero dare per scontato che queste idee esistano senza poterle dimostrare. Questo solo per dare ordine al sapere e semplificarlo^[Per esempio Newton spiegò tutta la sua fisica basandosi solo sul concetto di massa].
+
+## La <i>Critica della ragion pratica</i>
+Funziona in modo opposto alla [[#La <i>Critica della ragion pura</i>|Critica della ragion pura]]. Qui si chiede da dove nasce la moralità? Cosa stabilisce cosa è giusto e cosa no?
+Kant ci dice che la moralità è *innata*, quindi noi sappiamo dalla nascita cosa è giusto o meno, e possiamo decidere se agire bene o male. Però la morale non è uguale per tutti e ciò che è giusto per qualcuno può differire da quel che è giusto per qualcun altro.
+Secondo Kant, un'azione è morale quando è **un dovere**, senza alcuni secondi fini.
+Kant ci presenta il *dilemma del carrello*, che ipotizza uno scenario in cui siamo forzati a scegliere tra il lasciar morire **un bambino** o **cinque adulti**. La <i>morale utilitaristica</i> di Epicuro lascerebbe morire il bambino, poiché è una singola persona, ma la morale *deontologica*^[Quindi *del dovere*, *deon* dal greco vuol dire "il dovere"] di Kant si chiederebbe quale scelta sia la più giusta.
+
+## La <i>Critica del giudizio</i>
+Mentre scrive le prime due Critiche, Kant realizza che va studiato anche il *sentimento* umano legato al **bello**. Il bello è percepito inizialmente attraverso i sensi, ma è la *ragione* a decidere se qualcosa è bello attraverso dei criteri.
+Kant distingue **giudizi determinanti** dai **giudizi riflettenti**. I primi nascono dall'intelletto e cosa è  qualcosa, i secondi, quelli che prende in considerazione, sono i giudizi del sentimento. Quindi i giudizi riflettenti non hanno finalità^[A differenza di quelli determinanti che accrescono la conoscenza] e si limitano a riflettere su un oggetto già determinato.
+
+La riflessione finale nella Critica del giudizio riguarda i giudizi teleologici. I giudizi teleologici affrontano la **finalità** delle cose. Kant afferma che la finalità delle cose, come il vedere per l'occhio o il sentire per l'orecchio, non sono finalità oggettive, ma fini e scopi ideati dall'uomo riflettendo su questi oggetti.

@@ -5,12 +5,12 @@ L'**adenosina trifosfato**, *ATP* in breve, è un nucleotide fondamentale per im
 L'ATP è composta da adenina, ribosio e **tre gruppi fosfati**. L'energia è immagazzinata tra il *secondo* e *terzo* gruppo fosfato.
 La formazione di ATP avviene dalla rottura dei legami durante il catabolismo. La rottura libera  energia che viene immagazzinata nella molecola di ATP:
 $$
-ADP+P_{i}+E \rightarrow ATP
+ADP+P_{i}+e \rightarrow ATP
 $$
 Dove *ADP* è l'**adenosina difosfato**, $P_{i}$ è un gruppo fosfato inorganico, ed $E$ è l'energia.
 Durante l'anabolismo l'energia necessaria per formare i legami delle molecole da sintetizzare si prende dall'ATP, dove:
 $$
-ATP \rightarrow ADP+P_{i}+E
+ATP \rightarrow ADP+P_{i}+e
 $$
 Tutto questo avviene nel **mitocondrio**.
 ![Schema del mitocondrio](https://promedtest.it/wp-content/uploads/2022/07/MITO.png)
@@ -73,7 +73,7 @@ Avviene grazie alla presenza di complessi proteici della membrana interna del mi
 
 ![Schema|width:100%](https://www.projectinvictus.it/wp-content/uploads/2022/10/fosforilazione-ossidativa-processo-scaled.jpg)
 
-Nei complessi $\text{I}$, $\text{III}$ e $\text{IV}$ dei protoni $\text{H}^{+}$^[Essendo l'idrogeno formato da un protone e un neutrone, se l'atomo è un catione equivale sostanzialmente ad un protone. Similmente, un anione equivale ad un elettrone.], recuperato dall'ossidazione di un $\text{NADH}$ viene portato tramite trasporto *attivo*^[Quindi è *contro gradiente*.], gli elettroni assorbiti, nello spazio intermembrana. Gli elettroni sottratti dall'$\text{H}_{2}$ sono assorbiti dal complesso $\text{I}$. 
+Nei complessi $\text{I}$, $\text{III}$ e $\text{IV}$ dei protoni $\text{H}^{+}$^[Essendo l'idrogeno formato da un protone e un neutrone, se l'atomo è un catione equivale sostanzialmente ad un protone. Similmente, un anione equivale ad un elettrone.], recuperato dall'ossidazione di un $\text{NADH}$ o un $\text{FADH}_{2}$ viene portato tramite trasporto *attivo*^[Quindi è *contro gradiente*.], gli elettroni assorbiti, nello spazio intermembrana. Gli elettroni sottratti dall'$\text{H}_{2}$ sono assorbiti dal complesso $\text{I}$. 
 
 Nei complessi $\text{II}$, $\text{III}$ e $\text{IV}$ vengono trasportati gli elettroni per produrre una molecola di $\text{H}_{2}\text{O}$, due  e vengono riossidati i coenzimi. Precisamente, nel $\text{III}$ il $\text{FADH}_{2}$ viene riossidato. Infatti, senza ossigeno nella cellula la fosforilazione non può avvenire.
 

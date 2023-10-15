@@ -217,3 +217,13 @@ $$\large
 \forall \varepsilon > 0 \: \exists\delta > 0 / \forall x \in \: \underbrace{]x_{0}-\delta, x_{0} + \delta[}_{I_{x_{0}}} \Rightarrow |f(x)| > \varepsilon
 $$
 Quindi, in questo caso, la verifica da fare è che $f(x)$ sia maggiore di $\large\varepsilon$, che stavolta sarà un **numero grandissimo**, invece che infinitesimale. Questo perché stavolta, visto che la funzione tende all'infinito,  bisogna verificare che ci sia un valore nella funzione sempre più grande di qualsiasi numero, sia esso $7$ o $20.000.000$.
+
+Se il limite tende **all'infinito** la definizione diventa;
+$$\large
+\forall \varepsilon > 0 \: \exists N > 0 / \forall x > N \Rightarrow |f(x)-l| < \varepsilon
+$$
+
+Se un limite risulta in un **rapporto fra infiniti** con numeratore $N$ e denominatore $D$ le vie possibili sono tre:
+- Se il grado $N > D$ il risultato è infinito $\infty$
+- Se il grado $N < D$ il risultato è $0$
+- Se il grado $N = D$ il risultato è $\large\frac{a}{b}$ 

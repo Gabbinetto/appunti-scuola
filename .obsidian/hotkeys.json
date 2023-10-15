@@ -23,5 +23,15 @@
       ],
       "key": "ArrowDown"
     }
+  ],
+  "obsidian-advanced-slides:open-advanced-slides-preview": [],
+  "workspace:export-pdf": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
   ]
 }

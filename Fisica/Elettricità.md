@@ -144,4 +144,37 @@ $$\large
 $$
 
 # Potenziale elettrico
+La forza elettrica, così come quella gravitazionale, è **conservativa**.
+
+> La lavoro della forza elettrica su una carica che compie uno spostamento non dipende dalla traiettoria, ma solo dal punto di partenza e quello di arrivo
+
+Anche la formula del potenziale elettrico è simile nella forma a quello gravitazionale:
+$$
+\large
+\underbrace{U = mgh}_{\text{Potenziale gravitazionale}}
+\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:
+\underbrace{V = F_{c} \cdot y}_{\text{Potenziale elettrico}}
+$$
+Invertendo la formula del campo elettrico si può trasformare la formula:
+$$
+\large
+V = q \cdot E \cdot y
+$$
+Sostituendo $E$:
+$$
+\large
+V = \frac{Q}{4\pi \varepsilon_{0}d^{2}} \cdot q \cdot y
+$$
+$y$ è la distanza tra la carica ed un punto di potenziale zero di distanza infinita. Ad $y$ si sostituisce la distanza $d$ e quindi *il potenziale elettrico di una carica esploratrice $q$ immersa nel campo elettrico di una carica generatrice $Q$ è*:
+$$
+\large
+V = \frac{Q \cdot q}{4\pi \varepsilon_{0}d}
+$$
+### Il condensatore
+Consiste in una lastra carica positivamente e una lastra carica negativamente <i>per induzione</i>. Tra le due lastre c'è un materiale isolante detto *dielettrico*. ![[Condensatore.excalidraw|width:300]]
+Il campo elettrico *esterno* del condensatore corrisponde al doppio del campo elettrico di un piano:
+$$
+\large
+E=\frac{\delta}{2\varepsilon_{0}}
+$$
 

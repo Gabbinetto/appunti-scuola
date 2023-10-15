@@ -1,4 +1,3 @@
-#latino #ovidio #metamorphosi #mitologia
 Veniva da una famiglia piuttosto agiata, quini ha un educazione molto raffinata, e scrive in età molto giovane, infatti ha solo 12 anni quando Augusto sale al potere. 
 
 Ha successo perché incarna il gusto elegante che era molto apprezzato a Roma, infatti non ha bisogno di protettori né di circoli letterari. Finirà comunque per prenderne parte, ma rimarrà sempre molto indipendente. **Troppo indipendente**, visto che le sue opere verranno poi considerate troppo scandalose e verrà **esiliato**.
